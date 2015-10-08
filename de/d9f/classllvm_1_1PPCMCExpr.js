@@ -1,0 +1,46 @@
+var classllvm_1_1PPCMCExpr =
+[
+    [ "ExprKind", "de/d9f/classllvm_1_1PPCMCExpr.html#a6581362744f1129de6d4b6c4ee8b69f0", [
+      [ "Binary", "de/d9f/classllvm_1_1PPCMCExpr.html#a6581362744f1129de6d4b6c4ee8b69f0ad39c4375f2de701a811385670a699a51", null ],
+      [ "Constant", "de/d9f/classllvm_1_1PPCMCExpr.html#a6581362744f1129de6d4b6c4ee8b69f0a66e286cc65e62341501e5b26feade28d", null ],
+      [ "SymbolRef", "de/d9f/classllvm_1_1PPCMCExpr.html#a6581362744f1129de6d4b6c4ee8b69f0a8cbc19c1660252a30c030fa945999a91", null ],
+      [ "Unary", "de/d9f/classllvm_1_1PPCMCExpr.html#a6581362744f1129de6d4b6c4ee8b69f0a5928e5c98f309a381e165e774c09f49e", null ],
+      [ "Target", "de/d9f/classllvm_1_1PPCMCExpr.html#a6581362744f1129de6d4b6c4ee8b69f0aa65560b8224a92e80f422df090f07c55", null ]
+    ] ],
+    [ "VariantKind", "de/d9f/classllvm_1_1PPCMCExpr.html#a1ec88096dadbb5dc95ee1d2beb8f43ae", [
+      [ "VK_PPC_None", "de/d9f/classllvm_1_1PPCMCExpr.html#a1ec88096dadbb5dc95ee1d2beb8f43aea7a315b6b39f6925e520bcfaf9fc8bff1", null ],
+      [ "VK_PPC_LO", "de/d9f/classllvm_1_1PPCMCExpr.html#a1ec88096dadbb5dc95ee1d2beb8f43aeabfdba0fefcc5a7d5598bbdf3d5ca50b2", null ],
+      [ "VK_PPC_HI", "de/d9f/classllvm_1_1PPCMCExpr.html#a1ec88096dadbb5dc95ee1d2beb8f43aeaeb7e6ae36702d248a38ef973670b1c72", null ],
+      [ "VK_PPC_HA", "de/d9f/classllvm_1_1PPCMCExpr.html#a1ec88096dadbb5dc95ee1d2beb8f43aead1c4a469bf794649572d583d82fb5298", null ],
+      [ "VK_PPC_HIGHER", "de/d9f/classllvm_1_1PPCMCExpr.html#a1ec88096dadbb5dc95ee1d2beb8f43aea3222f18d25f03f5eae1ef158e6adc662", null ],
+      [ "VK_PPC_HIGHERA", "de/d9f/classllvm_1_1PPCMCExpr.html#a1ec88096dadbb5dc95ee1d2beb8f43aea582641ec46c5e9d10297757c85d52f1a", null ],
+      [ "VK_PPC_HIGHEST", "de/d9f/classllvm_1_1PPCMCExpr.html#a1ec88096dadbb5dc95ee1d2beb8f43aea387e97ac9905a19c04eec775014d290e", null ],
+      [ "VK_PPC_HIGHESTA", "de/d9f/classllvm_1_1PPCMCExpr.html#a1ec88096dadbb5dc95ee1d2beb8f43aea1e58d5555819cc4524917eb5d6a8f9d9", null ]
+    ] ],
+    [ "PPCMCExpr", "de/d9f/classllvm_1_1PPCMCExpr.html#a41ffec7ba6aa5b7bfe5ec16dcb38f740", null ],
+    [ "classof", "de/d9f/classllvm_1_1PPCMCExpr.html#a759e867d1584d89b85027cdbb95e5710", null ],
+    [ "Create", "de/d9f/classllvm_1_1PPCMCExpr.html#aa119acb12ec00fac2083b457d1944160", null ],
+    [ "CreateHa", "de/d9f/classllvm_1_1PPCMCExpr.html#a279a647b299cfa454b1c3af4518dbdf5", null ],
+    [ "CreateHi", "de/d9f/classllvm_1_1PPCMCExpr.html#ac7f51ec28dbe8843420d7c202a351851", null ],
+    [ "CreateLo", "de/d9f/classllvm_1_1PPCMCExpr.html#a17817a117635068c3ec2cb8875f9830d", null ],
+    [ "dump", "de/d9f/classllvm_1_1PPCMCExpr.html#accf0741feb838fd81f41505d3244056f", null ],
+    [ "EvaluateAsAbsolute", "de/d9f/classllvm_1_1PPCMCExpr.html#a7c601261b2a760651c9ed953eb4cb576", null ],
+    [ "EvaluateAsAbsolute", "de/d9f/classllvm_1_1PPCMCExpr.html#a7e870a2428ddc808540c118026faa7ed", null ],
+    [ "EvaluateAsAbsolute", "de/d9f/classllvm_1_1PPCMCExpr.html#addab4ea7ae648baadd78a81b04d38eb9", null ],
+    [ "EvaluateAsAbsolute", "de/d9f/classllvm_1_1PPCMCExpr.html#a31a873b2eb40a1eec15b3663e70faa24", null ],
+    [ "EvaluateAsRelocatable", "de/d9f/classllvm_1_1PPCMCExpr.html#a05a61ae980486bf2cb9b57ddb6ec7427", null ],
+    [ "EvaluateAsRelocatableImpl", "de/d9f/classllvm_1_1PPCMCExpr.html#a7dd97bc1e4c6df8aeea64dcb9462fb0b", null ],
+    [ "EvaluateAsRelocatableImpl", "de/d9f/classllvm_1_1PPCMCExpr.html#ae539aad269b8a5204ef935d45829fbc6", null ],
+    [ "EvaluateAsValue", "de/d9f/classllvm_1_1PPCMCExpr.html#aa39bc251c14fba6c8868420ae14beb49", null ],
+    [ "FindAssociatedSection", "de/d9f/classllvm_1_1PPCMCExpr.html#ad09bc1c0b95c8fb2dc1eb262ea87ee05", null ],
+    [ "fixELFSymbolsInTLSFixups", "de/d9f/classllvm_1_1PPCMCExpr.html#acb25ecb5f92b917191ec0ccc6abff4a7", null ],
+    [ "getKind", "de/d9f/classllvm_1_1PPCMCExpr.html#ac1e7cb9a4c1c997521986983365ce6e4", null ],
+    [ "getSubExpr", "de/d9f/classllvm_1_1PPCMCExpr.html#aff2055e44e7757676d380bb12a4ca00d", null ],
+    [ "isDarwinSyntax", "de/d9f/classllvm_1_1PPCMCExpr.html#a55a1176ea2a2dc026fdb0ca9447c9042", null ],
+    [ "print", "de/d9f/classllvm_1_1PPCMCExpr.html#a0b9e0af9eab3914f35c3f3e607b67e37", null ],
+    [ "PrintImpl", "de/d9f/classllvm_1_1PPCMCExpr.html#a2e68ba56adfe7b4f8954df51899e385e", null ],
+    [ "visitUsedExpr", "de/d9f/classllvm_1_1PPCMCExpr.html#ab93c7ad0736721cafb4eab9d99df20e5", null ],
+    [ "Expr", "de/d9f/classllvm_1_1PPCMCExpr.html#a0bc97878bd00c888b9869095d350d186", null ],
+    [ "IsDarwin", "de/d9f/classllvm_1_1PPCMCExpr.html#a56504e3673cf13177c3d127e948c7c29", null ],
+    [ "Kind", "de/d9f/classllvm_1_1PPCMCExpr.html#a72c9b4587fbfac8d86f58b1fda2e1440", null ]
+];

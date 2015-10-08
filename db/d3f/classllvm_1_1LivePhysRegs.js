@@ -1,0 +1,25 @@
+var classllvm_1_1LivePhysRegs =
+[
+    [ "const_iterator", "db/d3f/classllvm_1_1LivePhysRegs.html#a3dd39bd50438b4613d682a681255ec18", null ],
+    [ "LivePhysRegs", "db/d3f/classllvm_1_1LivePhysRegs.html#aa078c15f7bb13784a642b216faad8d36", null ],
+    [ "LivePhysRegs", "db/d3f/classllvm_1_1LivePhysRegs.html#a964cd05ec02f78aa77e12ab2c09f5453", null ],
+    [ "LivePhysRegs", "db/d3f/classllvm_1_1LivePhysRegs.html#ab626ba58e3325100db44385b359c72cb", null ],
+    [ "addLiveIns", "db/d3f/classllvm_1_1LivePhysRegs.html#a0c3060730a22e9502af3976147c45063", null ],
+    [ "addLiveOuts", "db/d3f/classllvm_1_1LivePhysRegs.html#ac14c5a076b102fa4277ec8850031ec4c", null ],
+    [ "addReg", "db/d3f/classllvm_1_1LivePhysRegs.html#aa662b3ff4374e146f9f0c9e409160595", null ],
+    [ "begin", "db/d3f/classllvm_1_1LivePhysRegs.html#a84766afb7b96f510d6671da6ee82ca38", null ],
+    [ "clear", "db/d3f/classllvm_1_1LivePhysRegs.html#a30e045ff918c93beb68e7db808287d7a", null ],
+    [ "contains", "db/d3f/classllvm_1_1LivePhysRegs.html#a5b03f3fd3e41dcf0bfa9486312c196d0", null ],
+    [ "dump", "db/d3f/classllvm_1_1LivePhysRegs.html#a652cef854727d270b55b284c29b1c27c", null ],
+    [ "empty", "db/d3f/classllvm_1_1LivePhysRegs.html#aba6f977687a1861484c5b6c959f6432c", null ],
+    [ "end", "db/d3f/classllvm_1_1LivePhysRegs.html#a9d268316c1804dbb70117941829a43e5", null ],
+    [ "init", "db/d3f/classllvm_1_1LivePhysRegs.html#a91b9f23cb1b3f24ea91dbf801fb5e8cb", null ],
+    [ "operator=", "db/d3f/classllvm_1_1LivePhysRegs.html#aa41227a54b3fa4e4c9ae57c3861c8faa", null ],
+    [ "print", "db/d3f/classllvm_1_1LivePhysRegs.html#a166fbca141a16bc2dd47286bd09abe05", null ],
+    [ "removeReg", "db/d3f/classllvm_1_1LivePhysRegs.html#a14a638bbee3d858e1dc9a8a176b51d2b", null ],
+    [ "removeRegsInMask", "db/d3f/classllvm_1_1LivePhysRegs.html#a757bb88a8b6ab37f36e9c2f9fa3638e3", null ],
+    [ "stepBackward", "db/d3f/classllvm_1_1LivePhysRegs.html#a683d33b7b0ca1cf29e61a3dc4614a046", null ],
+    [ "stepForward", "db/d3f/classllvm_1_1LivePhysRegs.html#a196d84b451eaf6213389f7e266283f5d", null ],
+    [ "LiveRegs", "db/d3f/classllvm_1_1LivePhysRegs.html#af25a7f64eabbf7f0d0cd78f7cf673b9c", null ],
+    [ "TRI", "db/d3f/classllvm_1_1LivePhysRegs.html#a87e00f9a9edb9135e4ec75bcca5fd69d", null ]
+];

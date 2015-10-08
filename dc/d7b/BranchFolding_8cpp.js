@@ -1,0 +1,25 @@
+var BranchFolding_8cpp =
+[
+    [ "DEBUG_TYPE", "dc/d7b/BranchFolding_8cpp.html#ad78e062f62e0d6e453941fb4ca843e4d", null ],
+    [ "ComputeCommonTailLength", "dc/d7b/BranchFolding_8cpp.html#a0ff8a27be1a6683026280a4611628562", null ],
+    [ "CountTerminators", "dc/d7b/BranchFolding_8cpp.html#a3a41d2e125b5d09248ee68674761fb14", null ],
+    [ "EstimateRuntime", "dc/d7b/BranchFolding_8cpp.html#a0df528512b8aed2e9f70a3f9b3128507", null ],
+    [ "findFalseBlock", "dc/d7b/BranchFolding_8cpp.html#ac3ecfd2e4efef37daed6d6fdea800a28", null ],
+    [ "findHoistingInsertPosAndDeps", "dc/d7b/BranchFolding_8cpp.html#aeaa3cf4dae61117e2ed40085d8b119bb", null ],
+    [ "FixTail", "dc/d7b/BranchFolding_8cpp.html#a653145c23a36602493bb8dae8ef3d73b", null ],
+    [ "getBranchDebugLoc", "dc/d7b/BranchFolding_8cpp.html#aebca59e55e33781db69d5909a2b2bc49", null ],
+    [ "HashEndOfMBB", "dc/d7b/BranchFolding_8cpp.html#a23f0fe5fd9bac0df47092cb480fbe136", null ],
+    [ "HashMachineInstr", "dc/d7b/BranchFolding_8cpp.html#a27436de2b027bf7b58f23547b654603d", null ],
+    [ "INITIALIZE_PASS", "dc/d7b/BranchFolding_8cpp.html#a82220ff274d037282208b6b3d75975c5", null ],
+    [ "IsBetterFallthrough", "dc/d7b/BranchFolding_8cpp.html#acda790896623fd894c71bf79f1bbcfea", null ],
+    [ "IsBranchOnlyBlock", "dc/d7b/BranchFolding_8cpp.html#ab17cea834a55a63f670e77230917423e", null ],
+    [ "IsEmptyBlock", "dc/d7b/BranchFolding_8cpp.html#a87d0fbdabd17122a3febe35d7fbefb60", null ],
+    [ "ProfitableToMerge", "dc/d7b/BranchFolding_8cpp.html#a0a05cc04c5d50a14920721da5f53e1fe", null ],
+    [ "STATISTIC", "dc/d7b/BranchFolding_8cpp.html#a7fc12fa408f3c5a5e8c205a77ee5c667", null ],
+    [ "STATISTIC", "dc/d7b/BranchFolding_8cpp.html#a52ab12dec7d98a4be54800eb47f33a60", null ],
+    [ "STATISTIC", "dc/d7b/BranchFolding_8cpp.html#a1e4f23d5dc4bc52d2f9fe7466852c6dd", null ],
+    [ "STATISTIC", "dc/d7b/BranchFolding_8cpp.html#abec13ac4c05563ee8d0f2bd1b4ac9027", null ],
+    [ "FlagEnableTailMerge", "dc/d7b/BranchFolding_8cpp.html#ae07ef8db7162ea7ac8f04e13f75a3580", null ],
+    [ "TailMergeSize", "dc/d7b/BranchFolding_8cpp.html#a287825ab3d1df2312dfb4c694a70cf43", null ],
+    [ "TailMergeThreshold", "dc/d7b/BranchFolding_8cpp.html#a02dc8f03ab0fbd643e0015ca91923d33", null ]
+];

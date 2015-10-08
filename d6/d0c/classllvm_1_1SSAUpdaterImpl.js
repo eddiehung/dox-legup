@@ -1,0 +1,27 @@
+var classllvm_1_1SSAUpdaterImpl =
+[
+    [ "BBInfo", "d4/d8c/classllvm_1_1SSAUpdaterImpl_1_1BBInfo.html", "d4/d8c/classllvm_1_1SSAUpdaterImpl_1_1BBInfo" ],
+    [ "AvailableValsTy", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a95afd56e1e546a5f4bac51313dc17a11", null ],
+    [ "BBMapTy", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#aea2e30b72602a43f3861805b5df73342", null ],
+    [ "BlkT", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#abecbf1276ac1e6ed2654e92b7a6facbb", null ],
+    [ "BlockListTy", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a33050209f97bc76a6069dfbac803430f", null ],
+    [ "PhiT", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#ac13f0ea4844e5fe7c3a21a6e5293f4e0", null ],
+    [ "Traits", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#ab4d86d990b5a3b802bf518b43bd8d031", null ],
+    [ "ValT", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#afe246a94c742c1898cad7a278f1e6e4b", null ],
+    [ "SSAUpdaterImpl", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a5f421457a35ee1520ac43e4f7def256d", null ],
+    [ "BuildBlockList", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#abf3e72c10b0f1cca8347b4e1a13f59f5", null ],
+    [ "CheckIfPHIMatches", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a11fecaa3326f4ff8c431887d8c87d314", null ],
+    [ "FindAvailableVals", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a3d50f3f3bb104fb854ac8de326c5bb64", null ],
+    [ "FindDominators", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a0ab1c1435c29eea38d7a8dd64f064b84", null ],
+    [ "FindExistingPHI", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a8c85661eda0e37ef407c2620c78a4186", null ],
+    [ "FindPHIPlacement", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#aad5016c6fea77df1d3f4af224e1472db", null ],
+    [ "GetValue", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a4f6c8ac18caa1b4beaf0d4d88b82cef9", null ],
+    [ "IntersectDominators", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a001f691fb202a38a3e29ce66345b94e9", null ],
+    [ "IsDefInDomFrontier", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a42e6b449c6b8fe1fa8d10f2f300f7e9b", null ],
+    [ "RecordMatchingPHIs", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a15993d541998ac409f0fe09abfef6fe8", null ],
+    [ "Allocator", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a59dc15a0c906fab271863a88f8c86a43", null ],
+    [ "AvailableVals", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a1c336acd8a51ac8367ed5716e9b5959c", null ],
+    [ "BBMap", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a46bd0cf95a415ac35a359555ebc8deb8", null ],
+    [ "InsertedPHIs", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#a884b6aa4c8328976efb22e6297f25561", null ],
+    [ "Updater", "d6/d0c/classllvm_1_1SSAUpdaterImpl.html#add38d53c84dc3df0119ec856ab2051bc", null ]
+];

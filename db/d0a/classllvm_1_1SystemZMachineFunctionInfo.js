@@ -1,0 +1,26 @@
+var classllvm_1_1SystemZMachineFunctionInfo =
+[
+    [ "SystemZMachineFunctionInfo", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a0be9a9609a44741680b15b3473326ae9", null ],
+    [ "anchor", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a0a791ee18786ad7227a0b57f23df06f5", null ],
+    [ "getHighSavedGPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#ad154b48f9720c2f30ec6c6ae4768c51c", null ],
+    [ "getLowSavedGPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a4348e602d30905cb8852fb0627f61800", null ],
+    [ "getManipulatesSP", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a0bdcadc5038a3a1c0f6f4c70e926e511", null ],
+    [ "getRegSaveFrameIndex", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#ae3089720830b9747d9a052a68c9a80b6", null ],
+    [ "getVarArgsFirstFPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#ad7147c0a072287948bfd4853e3743a29", null ],
+    [ "getVarArgsFirstGPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a813536d3ad443928cb1dccec974c5292", null ],
+    [ "getVarArgsFrameIndex", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a207bf4f4630a691b16bc853b8e462541", null ],
+    [ "setHighSavedGPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a11f54cfd429ab102e73ced8cd21e8bee", null ],
+    [ "setLowSavedGPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a330c0402a546c0bbc367add7c18493a1", null ],
+    [ "setManipulatesSP", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#abd6b61b5086e08de3e3b5de11c2648a9", null ],
+    [ "setRegSaveFrameIndex", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a1c5e230208890e76d1ca774aad911837", null ],
+    [ "setVarArgsFirstFPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a1aff2ddae64a8c6fc8053442df3314c8", null ],
+    [ "setVarArgsFirstGPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a7b229f5837309c6502545f61cc3ef502", null ],
+    [ "setVarArgsFrameIndex", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a1a7f2adc24e6a90bbf347ff500baf4aa", null ],
+    [ "HighSavedGPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#acc5a4cf8b1e3249c0b10a35fb9f8b887", null ],
+    [ "LowSavedGPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a3e006b0b8ac69c0df86891c5dc79df64", null ],
+    [ "ManipulatesSP", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#ad5d489c27dc75f077c37f67d0fe5adc7", null ],
+    [ "RegSaveFrameIndex", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a3b25bef228928bd99b682f05b68414b2", null ],
+    [ "VarArgsFirstFPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#ae05233d25db41b8f004dadec61d2d753", null ],
+    [ "VarArgsFirstGPR", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#a000e4cf3ef6abc42464031a6ed49673f", null ],
+    [ "VarArgsFrameIndex", "db/d0a/classllvm_1_1SystemZMachineFunctionInfo.html#ac7e5bc62725d211cd4a38e87b177e9e3", null ]
+];

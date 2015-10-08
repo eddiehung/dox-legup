@@ -1,0 +1,37 @@
+var X86InstrInfo_8h =
+[
+    [ "X86InstrInfo", "d1/df6/classllvm_1_1X86InstrInfo.html", "d1/df6/classllvm_1_1X86InstrInfo" ],
+    [ "GET_INSTRINFO_HEADER", "dc/dc8/X86InstrInfo_8h.html#ab12de263eb2ee622714701bc1946fad6", null ],
+    [ "CondCode", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2e", [
+      [ "COND_A", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eade92e2f17ca0acdd1ffa23d01df381df", null ],
+      [ "COND_AE", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eafeeb44274a14a14010dc990daecb39a0", null ],
+      [ "COND_B", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eac9ae7c779ffc6865536d9f164ebf09b9", null ],
+      [ "COND_BE", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eaaf9d50e29346a1094fb35045851db856", null ],
+      [ "COND_E", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2ea80da60ed5c7b20653afe0b4b21a91ec1", null ],
+      [ "COND_G", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2ea874bd4784391ae60bfdbc12d1f10bc73", null ],
+      [ "COND_GE", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2ea3547c8602aab6b0319c8052f8583613b", null ],
+      [ "COND_L", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eaf40beda0a4322699215cb85d7d6667b6", null ],
+      [ "COND_LE", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eae364c60967a7bc453d49caffc07d7bef", null ],
+      [ "COND_NE", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eacb2f86eaebe8b719f743d17a2d5a5f3d", null ],
+      [ "COND_NO", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eade1f36af81eae7e7b5b333d77de5feeb", null ],
+      [ "COND_NP", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2ea4af201423e9be297ec72e1ac6ad77063", null ],
+      [ "COND_NS", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2ea73469030600320118cd4a02f934ca9bc", null ],
+      [ "COND_O", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2ea914c19eb31606e70fd4f8dfff6d86038", null ],
+      [ "COND_P", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eaff7502cc3be1c359dca73814c6c34c6f", null ],
+      [ "COND_S", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eaeb72ca445848c39685fff16f97825475", null ],
+      [ "LAST_VALID_COND", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2ea2484e939ba4da4cd9030456de2f5fb75", null ],
+      [ "COND_NE_OR_P", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2ea8b47d4d3f261caf07338c6775a08a2bc", null ],
+      [ "COND_NP_OR_E", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eaa499df7a74a842077f189a17b0387fcb", null ],
+      [ "COND_INVALID", "dc/dc8/X86InstrInfo_8h.html#a1a356a51a1fb4cc3c427599082cf1d2eab1840bfcd789713b29a40d9d55cb41e3", null ]
+    ] ],
+    [ "getCMovFromCond", "dc/dc8/X86InstrInfo_8h.html#a92dfe1c6887254b2b4db89fae71f6103", null ],
+    [ "GetCondBranchFromCond", "dc/dc8/X86InstrInfo_8h.html#a86ce19a71e97672e370db2d9164f9c2a", null ],
+    [ "getCondFromCMovOpc", "dc/dc8/X86InstrInfo_8h.html#a33c661f2e48a170073eca27c2875c1bb", null ],
+    [ "GetOppositeBranchCondition", "dc/dc8/X86InstrInfo_8h.html#a5c06f5a972e8a78052103840a8c98a3f", null ],
+    [ "getSETFromCond", "dc/dc8/X86InstrInfo_8h.html#a108b3584b0a20c9024379179a5612b7a", null ],
+    [ "isGlobalRelativeToPICBase", "dc/dc8/X86InstrInfo_8h.html#a0a17fba293567ee7ac6bb0ff0843d9e4", null ],
+    [ "isGlobalStubReference", "dc/dc8/X86InstrInfo_8h.html#a029305779c4671cfa47263aae5ed18cc", null ],
+    [ "isLeaMem", "dc/dc8/X86InstrInfo_8h.html#aa2193538a19d33f9a3035f4f5b9f88fd", null ],
+    [ "isMem", "dc/dc8/X86InstrInfo_8h.html#a4d4191a557764471c0f130506c25e5ef", null ],
+    [ "isScale", "dc/dc8/X86InstrInfo_8h.html#a8e3efa3451510c4dd3b0360251dd5128", null ]
+];

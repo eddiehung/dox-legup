@@ -1,0 +1,38 @@
+var classllvm_1_1TargetFrameLowering =
+[
+    [ "SpillSlot", "da/df0/structllvm_1_1TargetFrameLowering_1_1SpillSlot.html", "da/df0/structllvm_1_1TargetFrameLowering_1_1SpillSlot" ],
+    [ "StackDirection", "d3/deb/classllvm_1_1TargetFrameLowering.html#a453c74e2daac0745b53f8b31c11fc50c", [
+      [ "StackGrowsUp", "d3/deb/classllvm_1_1TargetFrameLowering.html#a453c74e2daac0745b53f8b31c11fc50ca5a5dea77f2a0aaffed9741ae04e8d865", null ],
+      [ "StackGrowsDown", "d3/deb/classllvm_1_1TargetFrameLowering.html#a453c74e2daac0745b53f8b31c11fc50cad1fc7c9d0bae5bf76a67d2d26ce99c1a", null ]
+    ] ],
+    [ "TargetFrameLowering", "d3/deb/classllvm_1_1TargetFrameLowering.html#ae6cf8c66d083faae1a35ec6e8bddd5e1", null ],
+    [ "~TargetFrameLowering", "d3/deb/classllvm_1_1TargetFrameLowering.html#adcbc3bf1fa8b1cd05ce63c1bdd58f08b", null ],
+    [ "adjustForHiPEPrologue", "d3/deb/classllvm_1_1TargetFrameLowering.html#ab1ef4131a22b3e22e1403b4c64485b5f", null ],
+    [ "adjustForSegmentedStacks", "d3/deb/classllvm_1_1TargetFrameLowering.html#a23cfb8fc7aa94c96fe3f790aed5162b6", null ],
+    [ "assignCalleeSavedSpillSlots", "d3/deb/classllvm_1_1TargetFrameLowering.html#a1e3f6905b6cda3d44493c952d9a31bc0", null ],
+    [ "canSimplifyCallFramePseudos", "d3/deb/classllvm_1_1TargetFrameLowering.html#a0f60351ed01fb1f3db8896619ca8cd50", null ],
+    [ "eliminateCallFramePseudoInstr", "d3/deb/classllvm_1_1TargetFrameLowering.html#a07671912acc1a19e39869b61318b589b", null ],
+    [ "emitEpilogue", "d3/deb/classllvm_1_1TargetFrameLowering.html#a12d7286898851b396d8fb5fb78db2deb", null ],
+    [ "emitPrologue", "d3/deb/classllvm_1_1TargetFrameLowering.html#ae9ba6ae38e8083d7d5baa7e14fb33728", null ],
+    [ "getCalleeSavedSpillSlots", "d3/deb/classllvm_1_1TargetFrameLowering.html#a314c4e0c01d85374ca26181c7f45025a", null ],
+    [ "getFrameIndexOffset", "d3/deb/classllvm_1_1TargetFrameLowering.html#ab459463adf75c4036fcfc00ae21bd10d", null ],
+    [ "getFrameIndexReference", "d3/deb/classllvm_1_1TargetFrameLowering.html#a69d76672014cdc0e078f98622a61999c", null ],
+    [ "getOffsetOfLocalArea", "d3/deb/classllvm_1_1TargetFrameLowering.html#a32f0831ccaa8dbbbf0f779125e6d5dd8", null ],
+    [ "getStackAlignment", "d3/deb/classllvm_1_1TargetFrameLowering.html#a360555ed6db3b28a33fa5449a0335f19", null ],
+    [ "getStackGrowthDirection", "d3/deb/classllvm_1_1TargetFrameLowering.html#a8859c022d80a9f4ff145bc175481a493", null ],
+    [ "getTransientStackAlignment", "d3/deb/classllvm_1_1TargetFrameLowering.html#ae78236f4d366f90477811e689d491843", null ],
+    [ "hasFP", "d3/deb/classllvm_1_1TargetFrameLowering.html#a59182730437bdb0a45a274261a7ea84b", null ],
+    [ "hasReservedCallFrame", "d3/deb/classllvm_1_1TargetFrameLowering.html#a8404705eb7a27e437ac51ca3730bfd7c", null ],
+    [ "isFPCloseToIncomingSP", "d3/deb/classllvm_1_1TargetFrameLowering.html#af3636a5e3d5c82b7503ec4bd803c2736", null ],
+    [ "isStackRealignable", "d3/deb/classllvm_1_1TargetFrameLowering.html#a2996eaf65fa9c5184eb97d65dcf089aa", null ],
+    [ "processFunctionBeforeCalleeSavedScan", "d3/deb/classllvm_1_1TargetFrameLowering.html#aad380bc8dcefa76f68ad861850d7a16c", null ],
+    [ "processFunctionBeforeFrameFinalized", "d3/deb/classllvm_1_1TargetFrameLowering.html#ae4e95c1bc67c0f349be7498074ab3b6a", null ],
+    [ "restoreCalleeSavedRegisters", "d3/deb/classllvm_1_1TargetFrameLowering.html#a488abbc6de271d709e28d71e0413edad", null ],
+    [ "spillCalleeSavedRegisters", "d3/deb/classllvm_1_1TargetFrameLowering.html#a21a5a07a7e38f9a2dafdc4f21cff3773", null ],
+    [ "targetHandlesStackFrameRounding", "d3/deb/classllvm_1_1TargetFrameLowering.html#a95523ccdf8a9b6fecbefc3baaf117053", null ],
+    [ "LocalAreaOffset", "d3/deb/classllvm_1_1TargetFrameLowering.html#a00238238fd2e4400a5d88244a5a220a1", null ],
+    [ "StackAlignment", "d3/deb/classllvm_1_1TargetFrameLowering.html#a6f5c570a9f1d7efbef45da4e58f6acde", null ],
+    [ "StackDir", "d3/deb/classllvm_1_1TargetFrameLowering.html#ae722bf927421deca515a236236f26f40", null ],
+    [ "StackRealignable", "d3/deb/classllvm_1_1TargetFrameLowering.html#a40df22940608c9bd89d7644d832812e0", null ],
+    [ "TransientStackAlignment", "d3/deb/classllvm_1_1TargetFrameLowering.html#aaee2bdbc3a5fe2466c71fd3f43eb4e6a", null ]
+];

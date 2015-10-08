@@ -1,0 +1,27 @@
+var classllvm_1_1CriticalAntiDepBreaker =
+[
+    [ "DbgValueVector", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a6c381aabe72a248ff7d09bb0e2eac7ae", null ],
+    [ "RegRefIter", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a56ed9b6cf49a6e7935dc8a8d99bb9876", null ],
+    [ "CriticalAntiDepBreaker", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#afcfe11d8e76ce559a7a12d5b95ab1474", null ],
+    [ "~CriticalAntiDepBreaker", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a40ff81ca1f305a69ad054a7fc52ae9e4", null ],
+    [ "BreakAntiDependencies", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a5a71ccecb00de06004fb421a568dd7b4", null ],
+    [ "findSuitableFreeRegister", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#ae1186fdee023fbfd3dfb4a32fc861083", null ],
+    [ "FinishBlock", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a75b902b674dccf813eded0d99d6b012e", null ],
+    [ "isNewRegClobberedByRefs", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a5ca3d01ac943d5f4c9656daa2e85e7af", null ],
+    [ "Observe", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a3e59cdd88639bbf490ce614f4c3947f3", null ],
+    [ "PrescanInstruction", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#aa3efbe8a1bbf623a90df064caf16cf33", null ],
+    [ "ScanInstruction", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a8b155c594b0eb5e30918039777786bcd", null ],
+    [ "StartBlock", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#adb4573a84f25279673e3906914132a39", null ],
+    [ "UpdateDbgValue", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#adfe0240f8da3d0fdf9d833e48e9fe1ea", null ],
+    [ "AllocatableSet", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a1a8e4861b9562802a01d77b7ba07d715", null ],
+    [ "Classes", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a4d32c923a7c1164e66ac16436aaa8436", null ],
+    [ "DefIndices", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#af46bb547ac67babb3ec868b92484f016", null ],
+    [ "KeepRegs", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a71b7f879ea9b7452a91e51822285a7b5", null ],
+    [ "KillIndices", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a33068acc76f1eb483ee81e51d71d6850", null ],
+    [ "MF", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#af300586e4a32f8cbdf9600dfed01f780", null ],
+    [ "MRI", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a68cf37820182ae5f0eff8ab4b96229bd", null ],
+    [ "RegClassInfo", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#a5ed897eb93781e8b0db1f8bb96414d97", null ],
+    [ "RegRefs", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#af2409825956afdbfbf32c75040d3d0af", null ],
+    [ "TII", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#ac5a06151943caac14ddb93deda052304", null ],
+    [ "TRI", "d2/dad/classllvm_1_1CriticalAntiDepBreaker.html#aeeb144714a20425e052ed80803854a90", null ]
+];

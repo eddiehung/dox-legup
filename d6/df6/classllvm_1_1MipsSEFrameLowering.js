@@ -1,0 +1,35 @@
+var classllvm_1_1MipsSEFrameLowering =
+[
+    [ "StackDirection", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a453c74e2daac0745b53f8b31c11fc50c", [
+      [ "StackGrowsUp", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a453c74e2daac0745b53f8b31c11fc50ca5a5dea77f2a0aaffed9741ae04e8d865", null ],
+      [ "StackGrowsDown", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a453c74e2daac0745b53f8b31c11fc50cad1fc7c9d0bae5bf76a67d2d26ce99c1a", null ]
+    ] ],
+    [ "MipsSEFrameLowering", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a444b762c0c9dd889c8008c5e332b979f", null ],
+    [ "adjustForHiPEPrologue", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#ab1ef4131a22b3e22e1403b4c64485b5f", null ],
+    [ "adjustForSegmentedStacks", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a23cfb8fc7aa94c96fe3f790aed5162b6", null ],
+    [ "assignCalleeSavedSpillSlots", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a1e3f6905b6cda3d44493c952d9a31bc0", null ],
+    [ "canSimplifyCallFramePseudos", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a0f60351ed01fb1f3db8896619ca8cd50", null ],
+    [ "create", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a1188d934c9392079b29297c4e4d4601c", null ],
+    [ "ehDataReg", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a8c6c435f7d633645fb2eebf81efc88e2", null ],
+    [ "eliminateCallFramePseudoInstr", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a5b36be8d192cd31650e29de0e4eb1583", null ],
+    [ "emitEpilogue", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#aeb6b320000ce736d5ac68e606fcc3519", null ],
+    [ "emitPrologue", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a41017c1aae3388fce624a45741303ba5", null ],
+    [ "estimateStackSize", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a98477b34887c9b5174f52363484e4183", null ],
+    [ "getCalleeSavedSpillSlots", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a314c4e0c01d85374ca26181c7f45025a", null ],
+    [ "getFrameIndexOffset", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#ab459463adf75c4036fcfc00ae21bd10d", null ],
+    [ "getFrameIndexReference", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a69d76672014cdc0e078f98622a61999c", null ],
+    [ "getOffsetOfLocalArea", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a32f0831ccaa8dbbbf0f779125e6d5dd8", null ],
+    [ "getStackAlignment", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a360555ed6db3b28a33fa5449a0335f19", null ],
+    [ "getStackGrowthDirection", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a8859c022d80a9f4ff145bc175481a493", null ],
+    [ "getTransientStackAlignment", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#ae78236f4d366f90477811e689d491843", null ],
+    [ "hasFP", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a36f349d15eeafffcb1e23c4dca88fe44", null ],
+    [ "hasReservedCallFrame", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a7e8bd93c19af3e257293630169b1c165", null ],
+    [ "isFPCloseToIncomingSP", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#af3636a5e3d5c82b7503ec4bd803c2736", null ],
+    [ "isStackRealignable", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a2996eaf65fa9c5184eb97d65dcf089aa", null ],
+    [ "processFunctionBeforeCalleeSavedScan", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a85e7e3249bbe00c86f5cdade9db67d7c", null ],
+    [ "processFunctionBeforeFrameFinalized", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#ae4e95c1bc67c0f349be7498074ab3b6a", null ],
+    [ "restoreCalleeSavedRegisters", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a488abbc6de271d709e28d71e0413edad", null ],
+    [ "spillCalleeSavedRegisters", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a2f2ae8ff9bff6e3af47a1ef3141e52f3", null ],
+    [ "targetHandlesStackFrameRounding", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#a95523ccdf8a9b6fecbefc3baaf117053", null ],
+    [ "STI", "d6/df6/classllvm_1_1MipsSEFrameLowering.html#af1af10a6867bca98ee44a510cc6a7660", null ]
+];

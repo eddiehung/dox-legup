@@ -1,0 +1,25 @@
+var MemoryBuiltins_8h =
+[
+    [ "ObjectSizeOffsetVisitor", "dc/d46/classllvm_1_1ObjectSizeOffsetVisitor.html", "dc/d46/classllvm_1_1ObjectSizeOffsetVisitor" ],
+    [ "ObjectSizeOffsetEvaluator", "d4/d8f/classllvm_1_1ObjectSizeOffsetEvaluator.html", "d4/d8f/classllvm_1_1ObjectSizeOffsetEvaluator" ],
+    [ "SizeOffsetEvalType", "d7/de0/MemoryBuiltins_8h.html#afc0dc45d1bd2a4de1352c78fb4d7ab42", null ],
+    [ "SizeOffsetType", "d7/de0/MemoryBuiltins_8h.html#ae50e9cf075866e9cbdaf80db15e3e482", null ],
+    [ "extractCallocCall", "d7/de0/MemoryBuiltins_8h.html#aaec4a65451e7bb1a5140e4553980e88b", null ],
+    [ "extractCallocCall", "d7/de0/MemoryBuiltins_8h.html#a77224bf47eda998db21313ea57d6248c", null ],
+    [ "extractMallocCall", "d7/de0/MemoryBuiltins_8h.html#a557c0bd50d6a6439ad6a9afcf8e340b5", null ],
+    [ "extractMallocCall", "d7/de0/MemoryBuiltins_8h.html#a1afaa9604627eaf028dfaeb311158e37", null ],
+    [ "getMallocAllocatedType", "d7/de0/MemoryBuiltins_8h.html#adc3d427ae53571c61269b58488af05df", null ],
+    [ "getMallocArraySize", "d7/de0/MemoryBuiltins_8h.html#ab2a615783bce35374d64da662869ac3d", null ],
+    [ "getMallocType", "d7/de0/MemoryBuiltins_8h.html#ac500cd246749c731323b4b79e8f2f350", null ],
+    [ "getObjectSize", "d7/de0/MemoryBuiltins_8h.html#ade9baf821f59f9a2977a1deaccb18023", null ],
+    [ "isAllocationFn", "d7/de0/MemoryBuiltins_8h.html#a455d82c49557ac1d6c8da8e8d86a94b5", null ],
+    [ "isAllocLikeFn", "d7/de0/MemoryBuiltins_8h.html#a0e0017717a140769348ff4379f97c28d", null ],
+    [ "isArrayMalloc", "d7/de0/MemoryBuiltins_8h.html#af1fb28ffadbcc3355c6bd7c2d006ba29", null ],
+    [ "isCallocLikeFn", "d7/de0/MemoryBuiltins_8h.html#a6af2bcc7c5e0f3aa4df1526781e6b122", null ],
+    [ "isFreeCall", "d7/de0/MemoryBuiltins_8h.html#a42a9f1e04ad580b344123c15dbb29d39", null ],
+    [ "isFreeCall", "d7/de0/MemoryBuiltins_8h.html#a34e6a99960b69acb7184ae4ec59ac4c5", null ],
+    [ "isMallocLikeFn", "d7/de0/MemoryBuiltins_8h.html#a2658c0d02aefac95af1af537f4180cb2", null ],
+    [ "isNoAliasFn", "d7/de0/MemoryBuiltins_8h.html#a1facc4deb1c9405622eda25f392c460a", null ],
+    [ "isOperatorNewLikeFn", "d7/de0/MemoryBuiltins_8h.html#a390a2482f8a6d3537ee580fe37c115fe", null ],
+    [ "isReallocLikeFn", "d7/de0/MemoryBuiltins_8h.html#a5f50245eb5a8de2f4d19efb15f8ad2b7", null ]
+];

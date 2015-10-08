@@ -1,0 +1,26 @@
+var classllvm_1_1CoalescerPair =
+[
+    [ "CoalescerPair", "dc/d80/classllvm_1_1CoalescerPair.html#aaa013d67c62eb366965c005c68c40728", null ],
+    [ "CoalescerPair", "dc/d80/classllvm_1_1CoalescerPair.html#a4e10ea20ec6b3326d99f8858f46bc2f8", null ],
+    [ "flip", "dc/d80/classllvm_1_1CoalescerPair.html#a46ebf2b548d5b38599073fe56b75bec0", null ],
+    [ "getDstIdx", "dc/d80/classllvm_1_1CoalescerPair.html#a327b17adff6cd8fcd83e3ef8f51bd120", null ],
+    [ "getDstReg", "dc/d80/classllvm_1_1CoalescerPair.html#a08d52ddde5e2f3e508a08c0e0d9da1d6", null ],
+    [ "getNewRC", "dc/d80/classllvm_1_1CoalescerPair.html#a52ee8631c305276502d9497d4da899df", null ],
+    [ "getSrcIdx", "dc/d80/classllvm_1_1CoalescerPair.html#ade48ad21b04a7d02e9c8c2b8aaaa1257", null ],
+    [ "getSrcReg", "dc/d80/classllvm_1_1CoalescerPair.html#a46de963cec14f0b80db858c6617fa4d0", null ],
+    [ "isCoalescable", "dc/d80/classllvm_1_1CoalescerPair.html#af46ed3600300677045d43f650f3a261c", null ],
+    [ "isCrossClass", "dc/d80/classllvm_1_1CoalescerPair.html#af7f0ba14457d5e597519074ba93d53c4", null ],
+    [ "isFlipped", "dc/d80/classllvm_1_1CoalescerPair.html#a1eef8be2fb93f7fada1b2ba1895a9d3b", null ],
+    [ "isPartial", "dc/d80/classllvm_1_1CoalescerPair.html#a659afe724e9b3bbb0fae168f30beac00", null ],
+    [ "isPhys", "dc/d80/classllvm_1_1CoalescerPair.html#a1339202382c360da5ae3d8294561d1a1", null ],
+    [ "setRegisters", "dc/d80/classllvm_1_1CoalescerPair.html#acf12cb8b07d5443c8777257d1b9a1dc7", null ],
+    [ "CrossClass", "dc/d80/classllvm_1_1CoalescerPair.html#ae6b309ab4bf10b5c0698b0a310cd6713", null ],
+    [ "DstIdx", "dc/d80/classllvm_1_1CoalescerPair.html#a41ef5aced9c37d597c8ca0448a6a6153", null ],
+    [ "DstReg", "dc/d80/classllvm_1_1CoalescerPair.html#a5f7743008a2834744d2d6be78395f4ff", null ],
+    [ "Flipped", "dc/d80/classllvm_1_1CoalescerPair.html#ae1b52c8b96455a7caa7fbf62991e2436", null ],
+    [ "NewRC", "dc/d80/classllvm_1_1CoalescerPair.html#ad747588bde4decbb98b226aff52e861f", null ],
+    [ "Partial", "dc/d80/classllvm_1_1CoalescerPair.html#ae02d6b077dd070ceba561cb21449b7eb", null ],
+    [ "SrcIdx", "dc/d80/classllvm_1_1CoalescerPair.html#a2287c7065b3d41e7c200ea57cb4257a8", null ],
+    [ "SrcReg", "dc/d80/classllvm_1_1CoalescerPair.html#a347ad0b92d3be203dec964ce0b385f6f", null ],
+    [ "TRI", "dc/d80/classllvm_1_1CoalescerPair.html#a67febc3d73e1c873915d20721f7ed83e", null ]
+];

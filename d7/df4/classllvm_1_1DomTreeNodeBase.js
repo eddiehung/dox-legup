@@ -1,0 +1,28 @@
+var classllvm_1_1DomTreeNodeBase =
+[
+    [ "const_iterator", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a6fdda0c3d83d2ab56a468eebad367a6d", null ],
+    [ "iterator", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a4d2422d22434aa1008a519a143364715", null ],
+    [ "DomTreeNodeBase", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a680aab4250a136da1a76a415f8b22161", null ],
+    [ "addChild", "d7/df4/classllvm_1_1DomTreeNodeBase.html#af0660db2b502d0adf81c0295a8716056", null ],
+    [ "begin", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a40b8345d54ada5dab71ae11d71e89d2f", null ],
+    [ "begin", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a09f289c6bd8c9720c8d8dbbf9ac2ea04", null ],
+    [ "clearAllChildren", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a3278a7611e78c401984c87508fc2c326", null ],
+    [ "compare", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a4034a84d199bf941ddbef17b310ba4ad", null ],
+    [ "DominatedBy", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a29f9f5f632033e72f9b72ceb489e278c", null ],
+    [ "end", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a74111c67a831eb30b020ecf063bce406", null ],
+    [ "end", "d7/df4/classllvm_1_1DomTreeNodeBase.html#af6f20e217123c9c7c49d0544fa49680b", null ],
+    [ "getBlock", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a96fd2f0087c41942dd2618ff6e1b8640", null ],
+    [ "getChildren", "d7/df4/classllvm_1_1DomTreeNodeBase.html#afada34cd832fdc73959f84d4769ab837", null ],
+    [ "getDFSNumIn", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a5422e4d5287011b26d282989fce6606a", null ],
+    [ "getDFSNumOut", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a72b069b9aef1f1a688816f2d099c6286", null ],
+    [ "getIDom", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a7519f9ffdda3ef1147e2563200587193", null ],
+    [ "getNumChildren", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a367ce5b70f05d0e7c30a544dab2312a9", null ],
+    [ "setIDom", "d7/df4/classllvm_1_1DomTreeNodeBase.html#aa00253569fc3cb86006bca84c1fb1642", null ],
+    [ "DominatorTreeBase", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a74b072ede12b948c0e156f69f922ec2c", null ],
+    [ "PostDominatorTree", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a82d495bbb2b7c4761ca5c0ab2cca3ae8", null ],
+    [ "Children", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a7adfca29aad448e8c0fab5c9a11e3726", null ],
+    [ "DFSNumIn", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a291523e77d2eff169b3ae96dedfde0b2", null ],
+    [ "DFSNumOut", "d7/df4/classllvm_1_1DomTreeNodeBase.html#ad11d17307cf7a0b45393fa728d3e30f8", null ],
+    [ "IDom", "d7/df4/classllvm_1_1DomTreeNodeBase.html#ab0974e0ad7faa64fb1c8370303109568", null ],
+    [ "TheBB", "d7/df4/classllvm_1_1DomTreeNodeBase.html#a19de28503afde07052f4fc6a93e41eb9", null ]
+];

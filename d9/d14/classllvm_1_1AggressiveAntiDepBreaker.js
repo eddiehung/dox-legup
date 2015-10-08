@@ -1,0 +1,26 @@
+var classllvm_1_1AggressiveAntiDepBreaker =
+[
+    [ "DbgValueVector", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a6c381aabe72a248ff7d09bb0e2eac7ae", null ],
+    [ "RenameOrderType", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#abd1b2229ef1b4c864aeb7c510ae0edee", null ],
+    [ "AggressiveAntiDepBreaker", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#ae84346919b2ab9829188ffa8e7e8d3c9", null ],
+    [ "~AggressiveAntiDepBreaker", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#ae92b369ff71fbc90df59a4fc678f71f4", null ],
+    [ "BreakAntiDependencies", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#ab7263c22653c86a22ff72bc5385e8835", null ],
+    [ "FindSuitableFreeRegisters", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#ac36b0b5cb7c82da10f023992014ed83d", null ],
+    [ "FinishBlock", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a6e720e0600da94ee88fe18c94fa4269a", null ],
+    [ "GetPassthruRegs", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#ad19f32651d6b0ed6d5a9ba5b34e4eed4", null ],
+    [ "GetRenameRegisters", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a44e3df945617c42dcc0a66628cadc285", null ],
+    [ "HandleLastUse", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a37ba07821bf4dc8537f56ea836944d78", null ],
+    [ "IsImplicitDefUse", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a0822db3fc1f05aea84b397a86dbc6fcf", null ],
+    [ "Observe", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a511418be2efb198f25e412c50f4c6674", null ],
+    [ "PrescanInstruction", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a833d466dfa7d9c911adc7de52655beee", null ],
+    [ "ScanInstruction", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#ad65a521719e5c667db68f33d6c63c672", null ],
+    [ "StartBlock", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#abd095bb58a0243946704d20d3559d420", null ],
+    [ "UpdateDbgValue", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#adfe0240f8da3d0fdf9d833e48e9fe1ea", null ],
+    [ "CriticalPathSet", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a6c8711bd327b350599c5e9164b4ce162", null ],
+    [ "MF", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#aa1f73c4f58173fda45a7c39383b2c3e8", null ],
+    [ "MRI", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a6f1d3b9b749c73e8cb4707c62f407156", null ],
+    [ "RegClassInfo", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#ac9eea9708919d7ce202de27c5aa163bd", null ],
+    [ "State", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a55f62ed11ac6a4c20086ee75b9b8dbde", null ],
+    [ "TII", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#a30592433e3d78c980bb001a511472ee0", null ],
+    [ "TRI", "d9/d14/classllvm_1_1AggressiveAntiDepBreaker.html#ab6e360fc3f85ae08313a708109521989", null ]
+];

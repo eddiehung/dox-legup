@@ -1,0 +1,25 @@
+var group__LLVMCCoreModule =
+[
+    [ "LLVMAddFunction", "dc/d40/group__LLVMCCoreModule.html#ga12f35adec814eb1d3e9a2090b14f74f5", null ],
+    [ "LLVMAddNamedMetadataOperand", "dc/d40/group__LLVMCCoreModule.html#gaa32f9ef50479c1f1eebfffe64c30ef75", null ],
+    [ "LLVMDisposeModule", "dc/d40/group__LLVMCCoreModule.html#ga4acadb366d5ff0405371508ca741a5bf", null ],
+    [ "LLVMDumpModule", "dc/d40/group__LLVMCCoreModule.html#ga31c87315ba3f595d6786c47a50d9f8e7", null ],
+    [ "LLVMGetDataLayout", "dc/d40/group__LLVMCCoreModule.html#gae654177f7948ace29ec362d464318578", null ],
+    [ "LLVMGetFirstFunction", "dc/d40/group__LLVMCCoreModule.html#ga374a76b8284f82daa51c2ca3cb92ec26", null ],
+    [ "LLVMGetLastFunction", "dc/d40/group__LLVMCCoreModule.html#ga78c26f83ae950f9b29cd108cf89557aa", null ],
+    [ "LLVMGetModuleContext", "dc/d40/group__LLVMCCoreModule.html#ga66fd1dc1c47edded31b7e802066e2a2e", null ],
+    [ "LLVMGetNamedFunction", "dc/d40/group__LLVMCCoreModule.html#gac230af72a200c4fce34d0b53134569cd", null ],
+    [ "LLVMGetNamedMetadataNumOperands", "dc/d40/group__LLVMCCoreModule.html#gad036611d6bfbbe3924070b13698266ab", null ],
+    [ "LLVMGetNamedMetadataOperands", "dc/d40/group__LLVMCCoreModule.html#ga63b56e44f2668d8fb6e87f50057f3ed2", null ],
+    [ "LLVMGetNextFunction", "dc/d40/group__LLVMCCoreModule.html#gaea000c66c75e06bdfa25df033c117408", null ],
+    [ "LLVMGetPreviousFunction", "dc/d40/group__LLVMCCoreModule.html#gadea5d093b5ca9181504d155d24ef3810", null ],
+    [ "LLVMGetTarget", "dc/d40/group__LLVMCCoreModule.html#ga25a0be3489b6c0f0b517828d84e376f3", null ],
+    [ "LLVMGetTypeByName", "dc/d40/group__LLVMCCoreModule.html#ga29066e749e093fba6fedb5efa0962177", null ],
+    [ "LLVMModuleCreateWithName", "dc/d40/group__LLVMCCoreModule.html#ga8cf6711b9359fb55d081bfc5e664370c", null ],
+    [ "LLVMModuleCreateWithNameInContext", "dc/d40/group__LLVMCCoreModule.html#ga6bf4a0a387cf7fe04cbe0438cdb36a51", null ],
+    [ "LLVMPrintModuleToFile", "dc/d40/group__LLVMCCoreModule.html#ga4879fe0f5852edd39ea4a1e14d413bb0", null ],
+    [ "LLVMPrintModuleToString", "dc/d40/group__LLVMCCoreModule.html#gad150d942dc9f49238f57cb89464c01df", null ],
+    [ "LLVMSetDataLayout", "dc/d40/group__LLVMCCoreModule.html#ga09bb21e82ee1df64fd387cd1498ceded", null ],
+    [ "LLVMSetModuleInlineAsm", "dc/d40/group__LLVMCCoreModule.html#ga92011f59112d84a8fae289ca1549bd9d", null ],
+    [ "LLVMSetTarget", "dc/d40/group__LLVMCCoreModule.html#ga792209d857f53a72ac34fec1c599664a", null ]
+];

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['calculate',['Calculate',['../d2/d7b/classllvm_1_1DominatorTreeBase.html#a7fa32160a3835bd8d6c1b84fd6c0bb0f',1,'llvm::DominatorTreeBase']]],
+  ['callgraph',['CallGraph',['../d1/dc4/classllvm_1_1CallGraphNode.html#a05afb094c2637ded1f1b905b70d198a9',1,'llvm::CallGraphNode']]],
+  ['const_5fiterator',['const_iterator',['../d3/d39/classllvm_1_1IntervalMap.html#ac220ce1c155db1ac44146c12d178056f',1,'llvm::IntervalMap']]],
+  ['constant',['Constant',['../de/d27/classllvm_1_1Module.html#a5bd16c2fbe755cda66b18d56761038ea',1,'llvm::Module']]],
+  ['constantarraycreator_3c_20constantarray_2c_20arraytype_20_3e',['ConstantArrayCreator&lt; ConstantArray, ArrayType &gt;',['../d7/dc1/classllvm_1_1ConstantArray.html#ac2a6a382a1f965c7fb38b302a1657c1f',1,'llvm::ConstantArray']]],
+  ['constantarraycreator_3c_20constantstruct_2c_20structtype_20_3e',['ConstantArrayCreator&lt; ConstantStruct, StructType &gt;',['../d1/d03/classllvm_1_1ConstantStruct.html#aa34d8420a359447915311b6ffd8e9433',1,'llvm::ConstantStruct']]],
+  ['constantarraycreator_3c_20constantvector_2c_20vectortype_20_3e',['ConstantArrayCreator&lt; ConstantVector, VectorType &gt;',['../df/d43/classllvm_1_1ConstantVector.html#a35c06a6a9e2353627fb112dbc6964ec1',1,'llvm::ConstantVector']]],
+  ['constantcreator_3c_20constantexpr_2c_20type_2c_20std_3a_3apair_3c_20unsigned_2c_20std_3a_3avector_3c_20constant_20_2a_20_3e_20_3e_20_3e',['ConstantCreator&lt; ConstantExpr, Type, std::pair&lt; unsigned, std::vector&lt; Constant * &gt; &gt; &gt;',['../d8/d41/classllvm_1_1ConstantExpr.html#a493d9d753fbb1cac73e2cbd2ebb51781',1,'llvm::ConstantExpr']]],
+  ['constantcreator_3c_20inlineasm_2c_20pointertype_2c_20inlineasmkeytype_20_3e',['ConstantCreator&lt; InlineAsm, PointerType, InlineAsmKeyType &gt;',['../d0/d53/classllvm_1_1InlineAsm.html#a87c49742d172b720255cff82ed14c172',1,'llvm::InlineAsm']]],
+  ['constantdatasequential',['ConstantDataSequential',['../d4/d6c/classllvm_1_1ConstantDataArray.html#a74958cbd34e1860b1a7c946af159cbb4',1,'llvm::ConstantDataArray::ConstantDataSequential()'],['../d3/d24/classllvm_1_1ConstantDataVector.html#a74958cbd34e1860b1a7c946af159cbb4',1,'llvm::ConstantDataVector::ConstantDataSequential()']]],
+  ['constantexpr',['ConstantExpr',['../d8/df5/classllvm_1_1OverflowingBinaryOperator.html#a847cf9e9ee78147bc19b33f21cbba380',1,'llvm::OverflowingBinaryOperator::ConstantExpr()'],['../d5/d5d/classllvm_1_1PossiblyExactOperator.html#a847cf9e9ee78147bc19b33f21cbba380',1,'llvm::PossiblyExactOperator::ConstantExpr()'],['../da/d87/classllvm_1_1GEPOperator.html#a847cf9e9ee78147bc19b33f21cbba380',1,'llvm::GEPOperator::ConstantExpr()'],['../de/d34/classllvm_1_1PtrToIntOperator.html#a847cf9e9ee78147bc19b33f21cbba380',1,'llvm::PtrToIntOperator::ConstantExpr()']]],
+  ['constantuniquemap_3c_20inlineasmkeytype_2c_20const_20inlineasmkeytype_20_26_2c_20pointertype_2c_20inlineasm_2c_20false_20_3e',['ConstantUniqueMap&lt; InlineAsmKeyType, const InlineAsmKeyType &amp;, PointerType, InlineAsm, false &gt;',['../d0/d53/classllvm_1_1InlineAsm.html#a931f97af7fab651869f5d57c8feac810',1,'llvm::InlineAsm']]],
+  ['convertconstanttype_3c_20constantexpr_2c_20type_20_3e',['ConvertConstantType&lt; ConstantExpr, Type &gt;',['../d8/d41/classllvm_1_1ConstantExpr.html#a2a72413a369e64f97e8ce07870ac574d',1,'llvm::ConstantExpr']]],
+  ['crashrecoverycontext',['CrashRecoveryContext',['../d1/d2f/classllvm_1_1CrashRecoveryContextCleanup.html#aa21dcf8f6f911c07f904e03e624ab4e0',1,'llvm::CrashRecoveryContextCleanup']]],
+  ['createx86asminstrumentation',['CreateX86AsmInstrumentation',['../da/df7/classllvm_1_1X86AsmInstrumentation.html#a71e8e943caef31fd1866936e08adcc52',1,'llvm::X86AsmInstrumentation']]],
+  ['cursor',['Cursor',['../d0/d09/classllvm_1_1InterferenceCache.html#a9591eb6f6543f40292912e27b74f4d27',1,'llvm::InterferenceCache']]]
+];

@@ -1,0 +1,27 @@
+var Local_8h =
+[
+    [ "SmallVectorImpl", "da/d30/classllvm_1_1SmallVectorImpl.html", "da/d30/classllvm_1_1SmallVectorImpl" ],
+    [ "ConstantFoldTerminator", "d5/d6f/Local_8h.html#acc0f69ca423d4714e9d7b5763bb44f8f", null ],
+    [ "ConvertDebugDeclareToDebugValue", "d5/d6f/Local_8h.html#ab3d313ef442aae5b5bebf03c923506d0", null ],
+    [ "ConvertDebugDeclareToDebugValue", "d5/d6f/Local_8h.html#aa478b5231d63c60541970f8bbf426e30", null ],
+    [ "DemotePHIToStack", "d5/d6f/Local_8h.html#afbde889cebc3ea9b8b028d81677391a7", null ],
+    [ "DemoteRegToStack", "d5/d6f/Local_8h.html#aefae12dd3c4dfd4af617ce2e1a2d4e5e", null ],
+    [ "EliminateDuplicatePHINodes", "d5/d6f/Local_8h.html#aed498f056a09006219c59ee9fab0450f", null ],
+    [ "EmitGEPOffset", "d5/d6f/Local_8h.html#a87a909169e4e5de59bb72705c1d7d026", null ],
+    [ "FindAllocaDbgDeclare", "d5/d6f/Local_8h.html#aabf35a012f84ad0dab49cd5b7dec7965", null ],
+    [ "FlattenCFG", "d5/d6f/Local_8h.html#a75913080bd24be646247542697ce88e9", null ],
+    [ "FoldBranchToCommonDest", "d5/d6f/Local_8h.html#a9e8223ae6e4cfb28ca66162a69c50cd9", null ],
+    [ "getKnownAlignment", "d5/d6f/Local_8h.html#a4b12064a28de8066230c717d9e28c566", null ],
+    [ "getOrEnforceKnownAlignment", "d5/d6f/Local_8h.html#a6a51e15f35f62108281dddea6f3f69e0", null ],
+    [ "isInstructionTriviallyDead", "d5/d6f/Local_8h.html#a627b2f86ac433d829482d5a5a0f50668", null ],
+    [ "LowerDbgDeclare", "d5/d6f/Local_8h.html#a7994fd7ca0d8f8fcf2a9d18d151d0988", null ],
+    [ "MergeBasicBlockIntoOnlyPred", "d5/d6f/Local_8h.html#aa32cf1b401309ac8778b875304b88610", null ],
+    [ "RecursivelyDeleteDeadPHINode", "d5/d6f/Local_8h.html#a633667da527dd360a432b439c493e993", null ],
+    [ "RecursivelyDeleteTriviallyDeadInstructions", "d5/d6f/Local_8h.html#a6c73ab07237664251d5742567a4706f1", null ],
+    [ "RemovePredecessorAndSimplify", "d5/d6f/Local_8h.html#a85100ce8e9a9e0cb8a6d1bcfb323c165", null ],
+    [ "removeUnreachableBlocks", "d5/d6f/Local_8h.html#a93b95c8527f4f744ec4ac5d30150f7c5", null ],
+    [ "replaceDbgDeclareForAlloca", "d5/d6f/Local_8h.html#a32988f75d4d36f6897a3801b9e8c0ae8", null ],
+    [ "SimplifyCFG", "d5/d6f/Local_8h.html#ad515402897d07389b8a2e915abfe8dd7", null ],
+    [ "SimplifyInstructionsInBlock", "d5/d6f/Local_8h.html#ac1026db102eb33b517caa752fe0fdf97", null ],
+    [ "TryToSimplifyUncondBranchFromEmptyBlock", "d5/d6f/Local_8h.html#a599000eece6fb1addb05b6b2c36be28c", null ]
+];

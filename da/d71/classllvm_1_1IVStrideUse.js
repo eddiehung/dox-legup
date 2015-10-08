@@ -1,0 +1,36 @@
+var classllvm_1_1IVStrideUse =
+[
+    [ "HandleBaseKind", "da/d71/classllvm_1_1IVStrideUse.html#ae2f1a12c55f1c06acc38407b8627cb4d", [
+      [ "Assert", "da/d71/classllvm_1_1IVStrideUse.html#ae2f1a12c55f1c06acc38407b8627cb4da4d4e25f8ba89be14c9c2d60082bb7516", null ],
+      [ "Callback", "da/d71/classllvm_1_1IVStrideUse.html#ae2f1a12c55f1c06acc38407b8627cb4da670860d51b165a2d146356622a256418", null ],
+      [ "Tracking", "da/d71/classllvm_1_1IVStrideUse.html#ae2f1a12c55f1c06acc38407b8627cb4dabf6db247b350aeaff3ada4d4e52673fa", null ],
+      [ "Weak", "da/d71/classllvm_1_1IVStrideUse.html#ae2f1a12c55f1c06acc38407b8627cb4da3c970eedf4f533d381b99e2b5c73ad77", null ]
+    ] ],
+    [ "IVStrideUse", "da/d71/classllvm_1_1IVStrideUse.html#ac2140ae8507867b97114724c6a6dbbba", null ],
+    [ "allUsesReplacedWith", "da/d71/classllvm_1_1IVStrideUse.html#a1f633ad5396b6726039d26f5bbac940d", null ],
+    [ "deleted", "da/d71/classllvm_1_1IVStrideUse.html#a18e128fe9b12150cf9b6415b61c45e73", null ],
+    [ "getNextNode", "da/d71/classllvm_1_1IVStrideUse.html#a6ac308903849239f2f308aa180dda61b", null ],
+    [ "getNextNode", "da/d71/classllvm_1_1IVStrideUse.html#a80b80a593e79b2faf492936daa3020b9", null ],
+    [ "getOperandValToReplace", "da/d71/classllvm_1_1IVStrideUse.html#aa6188247cf9c5836de214f8bdddd8a9e", null ],
+    [ "getPostIncLoops", "da/d71/classllvm_1_1IVStrideUse.html#a1d29fc21e8671a6603ea5c51ee42f424", null ],
+    [ "getPrevNode", "da/d71/classllvm_1_1IVStrideUse.html#a77b897207ef0a1ae95c404695aed9a4b", null ],
+    [ "getPrevNode", "da/d71/classllvm_1_1IVStrideUse.html#a1ff181f1b9477e34ef61a5c771688caa", null ],
+    [ "getUser", "da/d71/classllvm_1_1IVStrideUse.html#ae2e1a69a1862b858dc428c2e54263370", null ],
+    [ "getValPtr", "da/d71/classllvm_1_1IVStrideUse.html#aad1261b43b5f53c959c693ec89e51b7d", null ],
+    [ "getValPtrInt", "da/d71/classllvm_1_1IVStrideUse.html#a8a06c87d570702652781e947fc0cdff7", null ],
+    [ "isValid", "da/d71/classllvm_1_1IVStrideUse.html#a567c4f57a2f3aaeb6daee72ec39fb073", null ],
+    [ "operator Value *", "da/d71/classllvm_1_1IVStrideUse.html#a5ece7d39875397b5458a1cd914b02340", null ],
+    [ "operator*", "da/d71/classllvm_1_1IVStrideUse.html#a8fedfe5d74504e83ad380a7888264310", null ],
+    [ "operator->", "da/d71/classllvm_1_1IVStrideUse.html#af9da3b1866d14212c9f4113f7968e1fb", null ],
+    [ "setOperandValToReplace", "da/d71/classllvm_1_1IVStrideUse.html#a59f03f777c4395d140e90f7a5278ee03", null ],
+    [ "setUser", "da/d71/classllvm_1_1IVStrideUse.html#acb8718e691dfd2e5d5a3e0d876e35cc9", null ],
+    [ "setValPtr", "da/d71/classllvm_1_1IVStrideUse.html#ab3a25e82043f8a99ad6ed61fb9c9483c", null ],
+    [ "setValPtrInt", "da/d71/classllvm_1_1IVStrideUse.html#a91113465a43155eafc1d850c67040611", null ],
+    [ "transformToPostInc", "da/d71/classllvm_1_1IVStrideUse.html#a8433a09d9b66df4f5c8a4d1414dc8ec9", null ],
+    [ "ValueIsDeleted", "da/d71/classllvm_1_1IVStrideUse.html#a92d8c2f0a2622bca7ff24f02790c3f31", null ],
+    [ "ValueIsRAUWd", "da/d71/classllvm_1_1IVStrideUse.html#abb87e6d5ed7ded2ccd8acac49caf22ab", null ],
+    [ "IVUsers", "da/d71/classllvm_1_1IVStrideUse.html#a097019ab19ab2e17ee9a4218fac9aa89", null ],
+    [ "OperandValToReplace", "da/d71/classllvm_1_1IVStrideUse.html#a16455f28f3e2dd7b3d8bdd2b6bebf39e", null ],
+    [ "Parent", "da/d71/classllvm_1_1IVStrideUse.html#a455a12a32108201983bc6e46df732fca", null ],
+    [ "PostIncLoops", "da/d71/classllvm_1_1IVStrideUse.html#a8ee1642fffe12b44f924ae3307de2746", null ]
+];

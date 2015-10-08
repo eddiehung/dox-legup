@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['kind',['Kind',['../d6/d9d/classllvm_1_1SDep.html#a07333f8ba53e0454b7ec6365860c0732',1,'llvm::SDep::Kind()'],['../dc/d06/classllvm_1_1SectionKind.html#aa4afef01ba08eef605f5830330275a08',1,'llvm::SectionKind::Kind()'],['../dc/dbe/classllvm_1_1object_1_1Archive.html#ab288378fa8bfa0678dd25e36b5198a87',1,'llvm.object::Archive::Kind()'],['../d8/ddd/namespacellvm_1_1EngineKind.html#a9df47239a42cd9621ac26d9ecbd57441',1,'llvm::EngineKind::Kind()'],['../d6/d64/namespacellvm_1_1lltok.html#af353621f14cb4b4b3af5ffaff84076b1',1,'llvm::lltok::Kind()'],['../dc/d54/YAMLIOTest_8cpp.html#aa10c9e8951b8ccf714a59ec321bdac5b',1,'Kind():&#160;YAMLIOTest.cpp']]],
+  ['kindty',['KindTy',['../de/d86/structllvm_1_1DataRegionData.html#ac38f17502bf15915678661a220141309',1,'llvm::DataRegionData::KindTy()'],['../da/df4/structllvm_1_1X86Operand.html#a4edd4aeb4f5f68994c7dfd8d33bc15c6',1,'llvm::X86Operand::KindTy()'],['../d4/d72/classllvm_1_1Matcher.html#a1313658f4c4201461f104eb910f43e47',1,'llvm::Matcher::KindTy()']]]
+];

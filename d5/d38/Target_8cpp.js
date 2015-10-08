@@ -1,0 +1,27 @@
+var Target_8cpp =
+[
+    [ "LLVMABIAlignmentOfType", "d5/d38/Target_8cpp.html#ga474ae58c596b5cb5c197a3f540479135", null ],
+    [ "LLVMABISizeOfType", "d5/d38/Target_8cpp.html#gac457451d818eb0bf7c2f30fe2683536f", null ],
+    [ "LLVMAddTargetData", "d5/d38/Target_8cpp.html#ga1551cfecdedf7343117bbf41e2a45d13", null ],
+    [ "LLVMAddTargetLibraryInfo", "d5/d38/Target_8cpp.html#gaaa147db9ad85da0e0a4011c736e18a26", null ],
+    [ "LLVMByteOrder", "d5/d38/Target_8cpp.html#ga58db6dd95139ba45cf1512fa84611112", null ],
+    [ "LLVMCallFrameAlignmentOfType", "d5/d38/Target_8cpp.html#ga90346e4b2e6c4e46ead5a75717c1adf6", null ],
+    [ "LLVMCopyStringRepOfTargetData", "d5/d38/Target_8cpp.html#ga004c609726071470846e7cbe548cd6d1", null ],
+    [ "LLVMCreateTargetData", "d5/d38/Target_8cpp.html#gac888ac3cfbfa7c2f48bca52006e81c91", null ],
+    [ "LLVMDisposeTargetData", "d5/d38/Target_8cpp.html#ga241569a7413b926f68263b3f0a8222a2", null ],
+    [ "LLVMElementAtOffset", "d5/d38/Target_8cpp.html#gaea687102374386eb3181083ed00a8700", null ],
+    [ "LLVMInitializeTarget", "d5/d38/Target_8cpp.html#ga5117ab2f269572b12a0a173b9b4f35b1", null ],
+    [ "LLVMIntPtrType", "d5/d38/Target_8cpp.html#ga677f27475a01ec69c1e63abd8fdd6f32", null ],
+    [ "LLVMIntPtrTypeForAS", "d5/d38/Target_8cpp.html#gabfa6b072ee3eca67aa93c59888d75f8d", null ],
+    [ "LLVMIntPtrTypeForASInContext", "d5/d38/Target_8cpp.html#gad659b1030acb5eb9c6ad6cf467a7339f", null ],
+    [ "LLVMIntPtrTypeInContext", "d5/d38/Target_8cpp.html#ga377860a95fee357d990609debb150f94", null ],
+    [ "LLVMOffsetOfElement", "d5/d38/Target_8cpp.html#ga9971347f4072d348862519bbacbd71a7", null ],
+    [ "LLVMPointerSize", "d5/d38/Target_8cpp.html#gab6ea442091017ffe1677f0720cc5aa7a", null ],
+    [ "LLVMPointerSizeForAS", "d5/d38/Target_8cpp.html#ga8eb45b6eaa0a48a4faef81f37ca64d40", null ],
+    [ "LLVMPreferredAlignmentOfGlobal", "d5/d38/Target_8cpp.html#ga0e8da4e06e8503aa8f887d16f23d5eba", null ],
+    [ "LLVMPreferredAlignmentOfType", "d5/d38/Target_8cpp.html#gaf1b1eb29d68cf85fea159a4bc6125176", null ],
+    [ "LLVMSizeOfTypeInBits", "d5/d38/Target_8cpp.html#gaa29cd97b498d32b9c5663574bd2659d7", null ],
+    [ "LLVMStoreSizeOfType", "d5/d38/Target_8cpp.html#ga4e44ae680973209dbcb915d7239518fe", null ],
+    [ "unwrap", "d5/d38/Target_8cpp.html#adc79567bfe8788b456cf068ea594a841", null ],
+    [ "wrap", "d5/d38/Target_8cpp.html#aeb8b4df95bdde5f410361a8c622fe08c", null ]
+];

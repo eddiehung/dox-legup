@@ -1,0 +1,27 @@
+var classllvm_1_1PMTopLevelManager =
+[
+    [ "PMTopLevelManager", "dd/dae/classllvm_1_1PMTopLevelManager.html#adc80432cc11960e6cf7fcae1a64c07a5", null ],
+    [ "~PMTopLevelManager", "dd/dae/classllvm_1_1PMTopLevelManager.html#a5f398de037a18cdec4f7b21b7fb68f8c", null ],
+    [ "addImmutablePass", "dd/dae/classllvm_1_1PMTopLevelManager.html#a23f7d81c75e44915d5aaf4949fe8c479", null ],
+    [ "addIndirectPassManager", "dd/dae/classllvm_1_1PMTopLevelManager.html#a022d0f8afbecd48458168e3a419d2048", null ],
+    [ "addPassManager", "dd/dae/classllvm_1_1PMTopLevelManager.html#acb7ec36e2caf7a586e2be1e015929804", null ],
+    [ "collectLastUses", "dd/dae/classllvm_1_1PMTopLevelManager.html#ae14832740da89a471e377bb12e10969c", null ],
+    [ "dumpArguments", "dd/dae/classllvm_1_1PMTopLevelManager.html#adc43c3ebe161ba410ed990beb8ae3d35", null ],
+    [ "dumpPasses", "dd/dae/classllvm_1_1PMTopLevelManager.html#ab4b29b2e6dbc1a6e4e5cf8fb89db315c", null ],
+    [ "findAnalysisPass", "dd/dae/classllvm_1_1PMTopLevelManager.html#a941f554aafc09331b7f599a04d85dbe7", null ],
+    [ "findAnalysisUsage", "dd/dae/classllvm_1_1PMTopLevelManager.html#aa2b6f31b009d485e411860e7547055c4", null ],
+    [ "getAsPMDataManager", "dd/dae/classllvm_1_1PMTopLevelManager.html#ade2922663723ef2ec0e7748331ff785b", null ],
+    [ "getImmutablePasses", "dd/dae/classllvm_1_1PMTopLevelManager.html#ad3385ed1d959ab54dd6f95ed4d91996f", null ],
+    [ "getNumContainedManagers", "dd/dae/classllvm_1_1PMTopLevelManager.html#a06cec55ebf09dd3d2f1939c0928431cc", null ],
+    [ "getTopLevelPassManagerType", "dd/dae/classllvm_1_1PMTopLevelManager.html#a565a4c914e22ce9dad3114f9025d61fd", null ],
+    [ "initializeAllAnalysisInfo", "dd/dae/classllvm_1_1PMTopLevelManager.html#ad54000cb15d4de5f1cccee55f29e6ab1", null ],
+    [ "schedulePass", "dd/dae/classllvm_1_1PMTopLevelManager.html#a5fb719fc8062d116b93091d9c9addd43", null ],
+    [ "setLastUser", "dd/dae/classllvm_1_1PMTopLevelManager.html#a5eab64f06a4196bd59b9b19251eefddb", null ],
+    [ "activeStack", "dd/dae/classllvm_1_1PMTopLevelManager.html#ac2156f58ba16adbf970667ecd0d44ca7", null ],
+    [ "AnUsageMap", "dd/dae/classllvm_1_1PMTopLevelManager.html#a18231503259332f19d580b4f3e984d15", null ],
+    [ "ImmutablePasses", "dd/dae/classllvm_1_1PMTopLevelManager.html#a2e22a9f286df190446adfbe1096a61ce", null ],
+    [ "IndirectPassManagers", "dd/dae/classllvm_1_1PMTopLevelManager.html#a3e3f4d099129bf2be05f3932d5bf4805", null ],
+    [ "InversedLastUser", "dd/dae/classllvm_1_1PMTopLevelManager.html#ad75178184a1aabec905e157f8dae3044", null ],
+    [ "LastUser", "dd/dae/classllvm_1_1PMTopLevelManager.html#a2991f1a586d6214c421a870d1a812d8f", null ],
+    [ "PassManagers", "dd/dae/classllvm_1_1PMTopLevelManager.html#a62f1c43ba247efb9b876c45fe2356eea", null ]
+];

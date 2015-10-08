@@ -1,0 +1,35 @@
+var classllvm_1_1MCSectionELF =
+[
+    [ "SectionVariant", "d5/da5/classllvm_1_1MCSectionELF.html#afecf7c84b079ea5c169f71b6c06ece98", [
+      [ "SV_COFF", "d5/da5/classllvm_1_1MCSectionELF.html#afecf7c84b079ea5c169f71b6c06ece98abcf1b00b3f8f61318b8837dc27cebb15", null ],
+      [ "SV_ELF", "d5/da5/classllvm_1_1MCSectionELF.html#afecf7c84b079ea5c169f71b6c06ece98a5f6a277923e4b004ff7fed8dd4ad7aee", null ],
+      [ "SV_MachO", "d5/da5/classllvm_1_1MCSectionELF.html#afecf7c84b079ea5c169f71b6c06ece98a55ed9b1dac938f496436528db3576783", null ]
+    ] ],
+    [ "MCSectionELF", "d5/da5/classllvm_1_1MCSectionELF.html#a0b683bb4f1c4fe45718075de352a0b89", null ],
+    [ "~MCSectionELF", "d5/da5/classllvm_1_1MCSectionELF.html#af10309af87e5dbd461092cb0ccfddad5", null ],
+    [ "classof", "d5/da5/classllvm_1_1MCSectionELF.html#a0bd233268f2eabaf43ddf9b80404acc6", null ],
+    [ "DetermineEntrySize", "d5/da5/classllvm_1_1MCSectionELF.html#a56646f8bfb0ae0965eb6959ce14cafb0", null ],
+    [ "getEntrySize", "d5/da5/classllvm_1_1MCSectionELF.html#a1bcc7ebe57d00d9458acbb9028f6c6cb", null ],
+    [ "getFlags", "d5/da5/classllvm_1_1MCSectionELF.html#a4d09ec2da8b097db0c06d5edd0b0bd89", null ],
+    [ "getGroup", "d5/da5/classllvm_1_1MCSectionELF.html#aa11e732597a6356e97ec89b26b981a1f", null ],
+    [ "getKind", "d5/da5/classllvm_1_1MCSectionELF.html#a118ff9150ba40b65eac7fb8da0024684", null ],
+    [ "getLabelBeginName", "d5/da5/classllvm_1_1MCSectionELF.html#ae3b8b9b6739da65365d56820a92ab4f8", null ],
+    [ "getLabelEndName", "d5/da5/classllvm_1_1MCSectionELF.html#a23760ead395f25bbac34f6fa13badb25", null ],
+    [ "getSectionName", "d5/da5/classllvm_1_1MCSectionELF.html#ade3707c63982463721883f76cee50c1f", null ],
+    [ "getType", "d5/da5/classllvm_1_1MCSectionELF.html#ab57f3998623a25816f5d76bdb8a2fffb", null ],
+    [ "getVariant", "d5/da5/classllvm_1_1MCSectionELF.html#aa915d4102b789b76b51018c6e3e853b6", null ],
+    [ "isBaseAddressKnownZero", "d5/da5/classllvm_1_1MCSectionELF.html#a0b97b697c5d4f93791c290902edb9bcb", null ],
+    [ "isVirtualSection", "d5/da5/classllvm_1_1MCSectionELF.html#ab84a722314ad860580553b9d6ebadf1c", null ],
+    [ "PrintSwitchToSection", "d5/da5/classllvm_1_1MCSectionELF.html#a8d94ba6b8cd9ed7275c077d7f4049920", null ],
+    [ "setSectionName", "d5/da5/classllvm_1_1MCSectionELF.html#a158e22a2f376f09bca4853397776130e", null ],
+    [ "ShouldOmitSectionDirective", "d5/da5/classllvm_1_1MCSectionELF.html#ad90c50926e3db384c7deb12cff3c50d8", null ],
+    [ "UseCodeAlign", "d5/da5/classllvm_1_1MCSectionELF.html#a2ae694ac17ad8682a3f6d85ade12309e", null ],
+    [ "MCContext", "d5/da5/classllvm_1_1MCSectionELF.html#a7862d2f746209c16291d7139dab55e00", null ],
+    [ "EntrySize", "d5/da5/classllvm_1_1MCSectionELF.html#a121186015c6be808a8ff0bd0d97dc748", null ],
+    [ "Flags", "d5/da5/classllvm_1_1MCSectionELF.html#a0e2f3dcbd11d243008815cb349797c3a", null ],
+    [ "Group", "d5/da5/classllvm_1_1MCSectionELF.html#aa089d989ed6f3e5f6e8ed8401797ab65", null ],
+    [ "Kind", "d5/da5/classllvm_1_1MCSectionELF.html#add60648fd6387b7ce2e66e68ac92f068", null ],
+    [ "SectionName", "d5/da5/classllvm_1_1MCSectionELF.html#a1a25d734bfadca24d7376b76372f0b2e", null ],
+    [ "Type", "d5/da5/classllvm_1_1MCSectionELF.html#af106d9291232c9b76d606299fa758196", null ],
+    [ "Variant", "d5/da5/classllvm_1_1MCSectionELF.html#a3a5eab427913897c7e600925a4216ca0", null ]
+];

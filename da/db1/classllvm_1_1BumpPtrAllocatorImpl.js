@@ -1,0 +1,27 @@
+var classllvm_1_1BumpPtrAllocatorImpl =
+[
+    [ "BumpPtrAllocatorImpl", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a7fd87a7e2740a97028e95a5899d48cab", null ],
+    [ "BumpPtrAllocatorImpl", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#abf07f10869ca7afbf45b9676986a6ecd", null ],
+    [ "BumpPtrAllocatorImpl", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a2ce7de96ed75800dc38861c6b8dc9511", null ],
+    [ "~BumpPtrAllocatorImpl", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a836afbff70282af54a1d70a30d3ab923", null ],
+    [ "Allocate", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a45bfbef031b9001c6e3875c8703a6b2c", null ],
+    [ "Allocate", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a51227a9490054e5103c0784fed711b83", null ],
+    [ "computeSlabSize", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a6452d175adfb600f78b742bd5ba40fc7", null ],
+    [ "Deallocate", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a4126913bcda079f0dc80ca514ee5a715", null ],
+    [ "Deallocate", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#ace9eff6dfe487ca0c54f98b92852bcfb", null ],
+    [ "DeallocateCustomSizedSlabs", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#aea74e72e96d406039f156a7ee9b663c6", null ],
+    [ "DeallocateSlabs", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a7c5d97ec956b2a6f8185ba15ca59ed0a", null ],
+    [ "GetNumSlabs", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a2c3027643f704fc7b03c308dc80fe3c5", null ],
+    [ "getTotalMemory", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a8109c66bca98463ba5e2b99caf71b3b5", null ],
+    [ "operator=", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a00a3c662198a7b968eca80a1ba89e8c5", null ],
+    [ "PrintStats", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#ab47144426d85123a11374a313eb10609", null ],
+    [ "Reset", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#ae70a2bb6bac9396fcd5686b56af8fc39", null ],
+    [ "StartNewSlab", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a53346ce314a0fdd4fee9aedaccc36966", null ],
+    [ "SpecificBumpPtrAllocator", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a8c5ed7ab075c43b64daa213617d97dc9", null ],
+    [ "Allocator", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#ade6e5f704352d7dc4c5e7a19a2afafe2", null ],
+    [ "BytesAllocated", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#ada3a56c30d7efb58f20988965a587eba", null ],
+    [ "CurPtr", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#af0ff6a0cb6c5f19445c03e05d219d941", null ],
+    [ "CustomSizedSlabs", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#aa5a1657b384673f616141694a102df4b", null ],
+    [ "End", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#a7309422257e3cc47ae953422f8505086", null ],
+    [ "Slabs", "da/db1/classllvm_1_1BumpPtrAllocatorImpl.html#aef215cd5f51e08fb12b9ad7dfb9af860", null ]
+];

@@ -1,0 +1,26 @@
+var classllvm_1_1LiveIntervalUnion_1_1Query =
+[
+    [ "Query", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a15713e0862997e899f1d95743106db89", null ],
+    [ "Query", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a72a3f65111d2c0ac650bf5f5a4d7b542", null ],
+    [ "Query", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#aae6328bf363870d5b11a3bc81696c42f", null ],
+    [ "checkInterference", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#ab7eacb4ff3e11e61bbe97acaf46d47d8", null ],
+    [ "clear", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#afd0f76c4f86ef39236f2dfcf824b5daf", null ],
+    [ "collectInterferingVRegs", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#aa64ff93c76b3a430e6533685ff9066fe", null ],
+    [ "init", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a9b14b1116373c0a7059e57dede1240f7", null ],
+    [ "interferingVRegs", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a6f98daaaac432eaa936a98e594faf212", null ],
+    [ "isSeenInterference", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a8f1e8711bf67d9e7eade5c7be1d63575", null ],
+    [ "operator=", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#ab80123869967d21bc3619f0b5a3d4979", null ],
+    [ "seenAllInterferences", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#ab1c4ae2dbb96352d0c821ab3613a70f9", null ],
+    [ "seenUnspillableVReg", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#ac4710133218eae5bd422333c68455196", null ],
+    [ "virtReg", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a09d3a903cce6f6522a8890b83c4a092a", null ],
+    [ "CheckedFirstInterference", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#ab3f40bdd96c713e281e520b987cc1eeb", null ],
+    [ "InterferingVRegs", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#ab127497ac72e5251b09eab4aa2567fa9", null ],
+    [ "LiveUnion", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a1915dc2bcb2ac3448b0c571539874e2e", null ],
+    [ "LiveUnionI", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a4ad65c27caa306599f36623b07e426d2", null ],
+    [ "SeenAllInterferences", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a9281e857ace86509857fda9752d50929", null ],
+    [ "SeenUnspillableVReg", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a57aca7a7298713cd9de32c7e7cc62d6d", null ],
+    [ "Tag", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a57fe544cd0e620196cd374c6861f9720", null ],
+    [ "UserTag", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a2c4cd0ccc3a7e2b12bf81729ed28ef1a", null ],
+    [ "VirtReg", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#ae73d0f3ab66aa1a486682ba9aaea6769", null ],
+    [ "VirtRegI", "de/db9/classllvm_1_1LiveIntervalUnion_1_1Query.html#a6d95bab67087262addcd53ad3017d857", null ]
+];

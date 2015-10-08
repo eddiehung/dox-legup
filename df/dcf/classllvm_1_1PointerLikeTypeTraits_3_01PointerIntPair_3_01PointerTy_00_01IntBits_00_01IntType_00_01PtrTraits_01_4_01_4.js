@@ -1,0 +1,7 @@
+var classllvm_1_1PointerLikeTypeTraits_3_01PointerIntPair_3_01PointerTy_00_01IntBits_00_01IntType_00_01PtrTraits_01_4_01_4 =
+[
+    [ "NumLowBitsAvailable", "df/dcf/classllvm_1_1PointerLikeTypeTraits_3_01PointerIntPair_3_01PointerTy_00_01IntBits_00_01IntType_00_01PtrTraits_01_4_01_4.html#add7a31d265a844237dae7279d0a0106faebe37f71d799a9befb544e7017781a5a", null ],
+    [ "getAsVoidPointer", "df/dcf/classllvm_1_1PointerLikeTypeTraits_3_01PointerIntPair_3_01PointerTy_00_01IntBits_00_01IntType_00_01PtrTraits_01_4_01_4.html#af3db176638a50183b7137be32b1d1736", null ],
+    [ "getFromVoidPointer", "df/dcf/classllvm_1_1PointerLikeTypeTraits_3_01PointerIntPair_3_01PointerTy_00_01IntBits_00_01IntType_00_01PtrTraits_01_4_01_4.html#a70aa4f35b0bf69bc344d0687d68f635c", null ],
+    [ "getFromVoidPointer", "df/dcf/classllvm_1_1PointerLikeTypeTraits_3_01PointerIntPair_3_01PointerTy_00_01IntBits_00_01IntType_00_01PtrTraits_01_4_01_4.html#afcaef06e8c126bc4ced85d6118d88b55", null ]
+];

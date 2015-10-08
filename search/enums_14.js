@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['tag',['Tag',['../df/daa/namespacellvm_1_1dwarf.html#ac94a19fc8c57bf0350fc4e9f45897828',1,'llvm::dwarf']]],
+  ['tailcallkind',['TailCallKind',['../d6/d9f/classllvm_1_1CallInst.html#ad9838ca05abd838f3fde4e8f52fc68eb',1,'llvm::CallInst']]],
+  ['tailcalltype',['TailCallType',['../d1/d7f/classllvm_1_1LLParser.html#aa116397fc363f9b4aa49ddb7f56ff83e',1,'llvm::LLParser']]],
+  ['targetcostconstants',['TargetCostConstants',['../d3/d8a/classllvm_1_1TargetTransformInfo.html#ac44f6b9fdbb5f9cc199f8329cb0b272c',1,'llvm::TargetTransformInfo']]],
+  ['targetindex',['TargetIndex',['../d2/d03/namespacellvm_1_1AMDGPU.html#abe1ffb7444626273ec47b5526acfdeec',1,'llvm::AMDGPU']]],
+  ['targetmemoperandflags',['TargetMemOperandFlags',['../d7/d5f/classllvm_1_1AArch64InstrInfo.html#abe7dc9e33618183ef7d0c420cc42f43c',1,'llvm::AArch64InstrInfo']]],
+  ['termops',['TermOps',['../d2/d88/classllvm_1_1Instruction.html#ac9422ce2b7c1a541da2e14f637cb4c10',1,'llvm::Instruction']]],
+  ['ternaryop',['TernaryOp',['../d3/dae/classllvm_1_1TernOpInit.html#a1ff5d7f457766e297bea5baf2c5cf053',1,'llvm::TernOpInit']]],
+  ['testenumeration',['TestEnumeration',['../d1/d18/HashingTest_8cpp.html#abf39d79ceb0ac472b393ad4a2e89936c',1,'HashingTest.cpp']]],
+  ['testresult',['TestResult',['../d6/dc6/structllvm_1_1ListReducer.html#afe928485d6d70a021f5b2eb52900aa9a',1,'llvm::ListReducer']]],
+  ['threadlocalmode',['ThreadLocalMode',['../d4/db0/classllvm_1_1GlobalValue.html#a05c6b3b9372b56d130e005db4837da62',1,'llvm::GlobalValue']]],
+  ['tif',['TIF',['../d3/de0/namespaceR600__InstFlag.html#a23106439cc906be24dc8953eedd3940d',1,'R600_InstFlag']]],
+  ['timeconversions',['TimeConversions',['../df/d3b/classllvm_1_1sys_1_1TimeValue.html#a3db964c7a5ccab6109c9e29842927ff9',1,'llvm::sys::TimeValue']]],
+  ['tlbivalues',['TLBIValues',['../d3/d69/namespacellvm_1_1AArch64TLBI.html#a690242802308c6ffdfd1ab5da335a22e',1,'llvm::AArch64TLBI']]],
+  ['tof',['TOF',['../df/dce/namespacellvm_1_1AArch64II.html#ae22a65863fdb02ce99abf9ee08bcbb71',1,'llvm::AArch64II::TOF()'],['../d2/dbb/namespacellvm_1_1ARMII.html#ac33037e230d127af6de7945ce02e7e5a',1,'llvm::ARMII::TOF()'],['../d7/da3/namespacellvm_1_1MipsII.html#ab0cf5f5ed4db649fc89a1b41f8b5771f',1,'llvm::MipsII::TOF()'],['../d2/dce/namespacellvm_1_1PPCII.html#ae73836094d8b0399ba10a6e540a363ff',1,'llvm::PPCII::TOF()'],['../d4/db5/namespacellvm_1_1X86II.html#a45cdfdabb3963ec52b198ce5d3aabc84',1,'llvm::X86II::TOF()']]],
+  ['token',['Token',['../db/d0d/Chapter2_2toy_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy.cpp'],['../d8/df5/Chapter3_2toy_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy.cpp'],['../dd/d95/Chapter4_2toy_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy.cpp'],['../d1/d9d/Chapter5_2toy_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy.cpp'],['../d0/d91/Chapter6_2toy_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy.cpp'],['../dd/d5c/Chapter7_2toy_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy.cpp'],['../d1/d6c/cached_2toy-jit_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy-jit.cpp'],['../d9/d17/MCJIT_2cached_2toy_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy.cpp'],['../d0/d81/MCJIT_2complete_2toy_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy.cpp'],['../d2/dca/MCJIT_2initial_2toy_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy.cpp'],['../d5/d15/lazy_2toy-jit_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy-jit.cpp'],['../d5/dfd/MCJIT_2lazy_2toy_8cpp.html#a6a9e93b081bad7fc74c17306fb168c1f',1,'Token():&#160;toy.cpp']]],
+  ['tokenkind',['TokenKind',['../d6/d3b/classllvm_1_1AsmToken.html#ab4316e41520ea53f789582c25bbec039',1,'llvm::AsmToken::TokenKind()'],['../d2/d88/structllvm_1_1yaml_1_1Token.html#a160e10c0839740601f1138548ddb0531',1,'llvm::yaml::Token::TokenKind()']]],
+  ['tokkind',['TokKind',['../db/d20/namespacellvm_1_1tgtok.html#abbc5259d649363016626e2529fabe0c5',1,'llvm::tgtok']]],
+  ['transformkind',['TransformKind',['../d9/d4a/namespacellvm.html#a72e1beba38b6627c9307ab8b5141ac64',1,'llvm']]],
+  ['tristate',['Tristate',['../d1/d62/classllvm_1_1LazyValueInfo.html#a381305cf61c847551a489431c43cec47',1,'llvm::LazyValueInfo']]],
+  ['type',['Type',['../d9/d4e/classllvm_1_1object_1_1SymbolRef.html#a2ea2ecb4f81936cc379aff129e440b04',1,'llvm.object::SymbolRef::Type()'],['../d1/dfa/classllvm_1_1DIEValue.html#aa473b7c3718900606e0e4770df7446e1',1,'llvm::DIEValue::Type()'],['../d9/d98/classtesting_1_1TestPartResult.html#a65ae656b33fdfdfffaf34858778a52d5',1,'testing::TestPartResult::Type()'],['../da/d3e/structlegup_1_1ModuloScheduler_1_1MEM__ACCESS.html#a7be97dd86501169c50c5d8193241ba63',1,'legup::ModuloScheduler::MEM_ACCESS::TYPE()'],['../d4/d65/namespacellvm_1_1HexagonII.html#a9bebdf970b4f51041ed3dee5d558a807',1,'llvm::HexagonII::Type()'],['../d0/d46/namespaceShaderType.html#ab6101b806f779c705286866cca3c1a7e',1,'ShaderType::Type()']]],
+  ['typecodes',['TypeCodes',['../d1/d24/namespacellvm_1_1bitc.html#a0bcdd46f107a31184119f65702c0889f',1,'llvm::bitc']]],
+  ['typeid',['TypeID',['../db/d53/classllvm_1_1Type.html#a5e9e1c0dd93557be1b4ad72860f3cbda',1,'llvm::Type']]],
+  ['typekind',['TypeKind',['../df/daa/namespacellvm_1_1dwarf.html#a7ab1b56dd40a0b87f98aecc319a3201d',1,'llvm::dwarf::TypeKind()'],['../da/df7/namespacetesting_1_1internal2.html#aeb8161b0b3ee503347b0662d7028fd57',1,'testing::internal2::TypeKind()']]],
+  ['typesymtabcodes',['TypeSymtabCodes',['../d1/d24/namespacellvm_1_1bitc.html#aeb466d086c311bcbaf8c76f3ac92404b',1,'llvm::bitc']]]
+];

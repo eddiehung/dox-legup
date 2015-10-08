@@ -1,0 +1,37 @@
+var gold_plugin_8cpp =
+[
+    [ "LDPO_PIE", "d4/df8/gold-plugin_8cpp.html#a301655ddd478bef09cc62b1af35c7bfa", null ],
+    [ "generate_bc", "d4/df8/gold-plugin_8cpp.html#a8e7332ff5972b5a46d7c7b659ec20f02", [
+      [ "BC_NO", "d4/df8/gold-plugin_8cpp.html#a8e7332ff5972b5a46d7c7b659ec20f02ab4dee7b3c3911fc8e0ca85ec185d46bf", null ],
+      [ "BC_ALSO", "d4/df8/gold-plugin_8cpp.html#a8e7332ff5972b5a46d7c7b659ec20f02a7f23b0549d1ea011f8b2861649d6e165", null ],
+      [ "BC_ONLY", "d4/df8/gold-plugin_8cpp.html#a8e7332ff5972b5a46d7c7b659ec20f02af962fc8b78d91584f39d3ac398506473", null ]
+    ] ],
+    [ "all_symbols_read_hook", "d4/df8/gold-plugin_8cpp.html#aa0d0ec2dd0b3827687c184d0507f3fd0", null ],
+    [ "claim_file_hook", "d4/df8/gold-plugin_8cpp.html#aa428b471076fea4821af7fe40d00a6a4", null ],
+    [ "cleanup_hook", "d4/df8/gold-plugin_8cpp.html#a95ebc93918e36c42c72dcc8cbde1d903", null ],
+    [ "discard_message", "d4/df8/gold-plugin_8cpp.html#a8a874b45a6c604d973ac9cb0a620f5d8", null ],
+    [ "mustPreserve", "d4/df8/gold-plugin_8cpp.html#a928887700b28ef3b68eff9119d50c805", null ],
+    [ "onload", "d4/df8/gold-plugin_8cpp.html#aa88cdac3780db66faf8f4d53c93a2b97", null ],
+    [ "process_plugin_option", "d4/df8/gold-plugin_8cpp.html#ae0e2f60477ce1c779d72fd8c1f3af4c0", null ],
+    [ "add_input_file", "d4/df8/gold-plugin_8cpp.html#ac917fb87ef3868579297621c2a3fd2c9", null ],
+    [ "add_symbols", "d4/df8/gold-plugin_8cpp.html#af8ecd66c9fe9af32196eaffaffc86aa2", null ],
+    [ "bc_path", "d4/df8/gold-plugin_8cpp.html#a8507b629b59a539595ba789f9a2251d6", null ],
+    [ "CannotBeHidden", "d4/df8/gold-plugin_8cpp.html#a07e37f89b08bb9d783af60a7fe4b7138", null ],
+    [ "Cleanup", "d4/df8/gold-plugin_8cpp.html#a3cf69c06456846b3d8f3120db27c7598", null ],
+    [ "CodeGen", "d4/df8/gold-plugin_8cpp.html#ae780b55050bb8f26ff23e8102b2d415c", null ],
+    [ "extra", "d4/df8/gold-plugin_8cpp.html#af373afd366fb32435958ebfd7d3f4e61", null ],
+    [ "extra_library_path", "d4/df8/gold-plugin_8cpp.html#a940dfd2aa626def63870a8f46a044044", null ],
+    [ "generate_api_file", "d4/df8/gold-plugin_8cpp.html#ae9d7ef31af0acc48a62699f41e75e87c", null ],
+    [ "generate_bc_file", "d4/df8/gold-plugin_8cpp.html#abaf125546d1c483a7b96e32331c20ced", null ],
+    [ "get_symbols", "d4/df8/gold-plugin_8cpp.html#a19d801f962b6cadd7539b3ed57386292", null ],
+    [ "get_view", "d4/df8/gold-plugin_8cpp.html#a4b1f35610cbe3ddbefa378182e468dc2", null ],
+    [ "mcpu", "d4/df8/gold-plugin_8cpp.html#a38b4d55e187c7c8fe448ee8bad9d8a27", null ],
+    [ "message", "d4/df8/gold-plugin_8cpp.html#acdb075c68bc82b678682e6f904592311", null ],
+    [ "Modules", "d4/df8/gold-plugin_8cpp.html#ab787c11d6429b37eb2020fef0e04bee4", null ],
+    [ "obj_path", "d4/df8/gold-plugin_8cpp.html#ad380e735c2b57dc646a855bef45e99bd", null ],
+    [ "output_name", "d4/df8/gold-plugin_8cpp.html#a4bfaa4b497cb5e62d0cfc56f5ce8cfc9", null ],
+    [ "output_type", "d4/df8/gold-plugin_8cpp.html#a0d2f85c18434a8588d362f60e737715b", null ],
+    [ "set_extra_library_path", "d4/df8/gold-plugin_8cpp.html#af13c4b3056563e7f340f9fcfe6a70523", null ],
+    [ "TargetOpts", "d4/df8/gold-plugin_8cpp.html#a546cd9170e93ee20c8d36db590cbb07b", null ],
+    [ "triple", "d4/df8/gold-plugin_8cpp.html#a2d3188e9f2818c3bd93eb9d751b934da", null ]
+];

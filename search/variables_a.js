@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['jce',['JCE',['../dd/dcf/classllvm_1_1JIT.html#a1d96388e49d07db044f67dc3926d5c2e',1,'llvm::JIT']]],
+  ['jit',['JIT',['../d5/dff/BrainFDriver_8cpp.html#a7052dae6e17ad2a89fd292bb5fda4040',1,'BrainFDriver.cpp']]],
+  ['jit_5fenv',['jit_env',['../da/d43/IntelJITEventListenerTest_8cpp.html#a5982c5adae9a031035ca19654a6f4c43',1,'jit_env():&#160;IntelJITEventListenerTest.cpp'],['../df/d64/OProfileJITEventListenerTest_8cpp.html#a5982c5adae9a031035ca19654a6f4c43',1,'jit_env():&#160;OProfileJITEventListenerTest.cpp']]],
+  ['jitcompilerfunction',['JITCompilerFunction',['../de/d82/ARMJITInfo_8cpp.html#ac33b1cf411a96c6bebaa8979def36977',1,'JITCompilerFunction():&#160;ARMJITInfo.cpp'],['../dd/d36/MipsJITInfo_8cpp.html#ac33b1cf411a96c6bebaa8979def36977',1,'JITCompilerFunction():&#160;MipsJITInfo.cpp'],['../d7/d4a/PPCJITInfo_8cpp.html#ac33b1cf411a96c6bebaa8979def36977',1,'JITCompilerFunction():&#160;PPCJITInfo.cpp'],['../d9/d8c/SparcJITInfo_8cpp.html#ac33b1cf411a96c6bebaa8979def36977',1,'JITCompilerFunction():&#160;SparcJITInfo.cpp'],['../d3/da4/X86JITInfo_8cpp.html#ac33b1cf411a96c6bebaa8979def36977',1,'JITCompilerFunction():&#160;X86JITInfo.cpp']]],
+  ['jitctor',['JITCtor',['../d8/db2/classllvm_1_1ExecutionEngine.html#a048cccfbc6dfc588a37c0175cb782968',1,'llvm::ExecutionEngine']]],
+  ['jitemitdebuginfo',['JITEmitDebugInfo',['../d1/d9b/classllvm_1_1TargetOptions.html#a2d997cfe1f0dd48066f5df7686350e9e',1,'llvm::TargetOptions']]],
+  ['jitemitdebuginfotodisk',['JITEmitDebugInfoToDisk',['../d1/d9b/classllvm_1_1TargetOptions.html#a4abb0f17a5feabe3f55e812d542be8c0',1,'llvm::TargetOptions']]],
+  ['jiti',['JITI',['../dc/d2b/classllvm_1_1JumpInstrTables.html#a1b266fdf3cf0c9d71957392cb72301c5',1,'llvm::JumpInstrTables']]],
+  ['jitinfo',['JITInfo',['../d5/df0/classllvm_1_1ARMSubtarget.html#a076e838be67bd045e8a536f606ebb81c',1,'llvm::ARMSubtarget::JITInfo()'],['../df/d39/classllvm_1_1MipsSubtarget.html#abbbfad39339be3f40b01dfc4927b9374',1,'llvm::MipsSubtarget::JITInfo()'],['../d3/d39/classllvm_1_1PPCSubtarget.html#ac6854efbb1666b2803630515210ccda1',1,'llvm::PPCSubtarget::JITInfo()'],['../d0/d29/classllvm_1_1SparcSubtarget.html#abc7851872b45f183d91feea436c9e243',1,'llvm::SparcSubtarget::JITInfo()'],['../d9/daa/classllvm_1_1X86Subtarget.html#a2a166c4c8a0172ec2dbaba07348bcf14',1,'llvm::X86Subtarget::JITInfo()']]],
+  ['jitstate',['jitstate',['../dd/dcf/classllvm_1_1JIT.html#ac8467f7b44bd99e3a800d16d4abe466e',1,'llvm::JIT']]],
+  ['jittest_5favailableexternallyglobal',['JITTest_AvailableExternallyGlobal',['../de/d6f/JITTest_8cpp.html#ac64367ad375053c15f49c815b6eb37a7',1,'JITTest.cpp']]],
+  ['jmm',['JMM',['../d9/df9/classllvm_1_1EngineBuilder.html#afb4342e9aba6d371861cf6553402678b',1,'llvm::EngineBuilder::JMM()'],['../dd/dcf/classllvm_1_1JIT.html#aa4a7af91429ec89b4e3c45974666d688',1,'llvm::JIT::JMM()']]],
+  ['jtcases',['JTCases',['../d8/ded/classllvm_1_1SelectionDAGBuilder.html#a9e9f0e8bba0c07aa975df97765117fa5',1,'llvm::SelectionDAGBuilder']]],
+  ['jti',['JTI',['../da/d96/classllvm_1_1JumpTableSDNode.html#a8a1fd6bd16dcfabb3ff6fcc704f30c5a',1,'llvm::JumpTableSDNode::JTI()'],['../db/dc2/structllvm_1_1SelectionDAGBuilder_1_1JumpTable.html#a2d21786fd975e2926021c45a0d943f4b',1,'llvm::SelectionDAGBuilder::JumpTable::JTI()']]],
+  ['jttype',['JTType',['../dc/d2b/classllvm_1_1JumpInstrTables.html#ae95c936dc2b777a0da754aec7ae3a6d7',1,'llvm::JumpInstrTables::JTType()'],['../d1/d9b/classllvm_1_1TargetOptions.html#ac458a9308e757d3ab1853b299d35e162',1,'llvm::TargetOptions::JTType()']]],
+  ['jumpbufalignment',['JumpBufAlignment',['../d3/d47/classllvm_1_1TargetLoweringBase.html#a8422d915dfc157b2e03c226764e8ef23',1,'llvm::TargetLoweringBase']]],
+  ['jumpbufsize',['JumpBufSize',['../d3/d47/classllvm_1_1TargetLoweringBase.html#af102991667b235277669b087715753dd',1,'llvm::TargetLoweringBase']]],
+  ['jumpisexpensive',['JumpIsExpensive',['../d3/d47/classllvm_1_1TargetLoweringBase.html#aa2514c5844e25313346cb2ae1c6a78cd',1,'llvm::TargetLoweringBase']]],
+  ['jumptableid2addrmap',['JumpTableId2AddrMap',['../d4/df3/classllvm_1_1ARMJITInfo.html#a2a9523f5f9080a54d6ae269e4c7d6439',1,'llvm::ARMJITInfo']]],
+  ['jumptableinfo',['JumpTableInfo',['../d5/d77/classllvm_1_1MachineFunction.html#a8add29d27259bb1953945d7dc5f4570a',1,'llvm::MachineFunction']]],
+  ['jumptables',['JumpTables',['../d2/d3d/classllvm_1_1MachineJumpTableInfo.html#a1b2a87a24e0ecdb058314bd056475b39',1,'llvm::MachineJumpTableInfo']]],
+  ['jumptableuid',['JumpTableUId',['../df/dd0/classllvm_1_1ARMFunctionInfo.html#a93d019c3b0327d9b12c1f43479c4cf16',1,'llvm::ARMFunctionInfo']]]
+];
